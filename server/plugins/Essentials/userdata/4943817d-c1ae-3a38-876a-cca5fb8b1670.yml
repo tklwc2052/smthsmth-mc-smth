@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776218820779
+  login: 1776218889073
+money: '0'
+last-account-name: Da_Doge_Dog
+lastlocation:
+  world: b1719dc5-7acb-4555-b34a-7e22decc9836
+  world-name: world
+  x: 1564.30749156265
+  y: 27.0
+  z: 959.8159663009844
+  yaw: 353.5284423828125
+  pitch: 12.300124168395996
+logoutlocation:
+  world: a89f4888-ff57-4d82-81c0-0c32904b5a9a
+  world-name: world
+  x: -1100.7061230521547
+  y: 34.0
+  z: 369.61061786988165
+  yaw: 120.396728515625
+  pitch: 70.5
+nickname: Doge

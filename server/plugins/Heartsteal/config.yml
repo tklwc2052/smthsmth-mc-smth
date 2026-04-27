@@ -1,0 +1,26 @@
+# HeartSteal Configuration
+settings:
+  # The maximum health a player can reach (42 = 21 hearts)
+  max-health: 42.0
+  
+  # What happens when a player reaches 0 hearts?
+  # Options: SPECTATOR, BAN, KICK
+  elimination-mode: "SPECTATOR"
+  
+  # Should we fix the TAB/Rank removal issue? 
+  # If true, the plugin won't force-change display names.
+  compatibility-mode: true
+
+  # Should the revive system be on
+  # If so, how many hearts should they revive with?
+  revive-system: true
+  self-revive-system: true
+  revive-startingamount: 10 # Default value is 10 (10 = 5 hearts)
+  self-revive-startingamount: 10 # Default value is 10 (10 = 5 hearts)
+
+messages:
+  max-health-reached: "§eYou have reached the maximum health limit!"
+  eliminated: "§cYou have no more hearts! You have been eliminated!"
+  stole-heart: "§aYou stole a heart from %victim%!"
+  lost-heart: "§cYou were killed by %killer% and lost a heart!"
+  elimination-broadcast: "§8§l[§c§l!§8§l] §f%player% §7has lost their last heart and been §celiminated§7!"

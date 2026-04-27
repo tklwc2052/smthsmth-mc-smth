@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776101132482
+  login: 1776100155803
+money: '0'
+last-account-name: Exotic77
+lastlocation:
+  world: 0a88f819-1958-4ed1-a978-39fb1c02a04a
+  world-name: world
+  x: -793.4741877479032
+  y: 71.0
+  z: -1328.4778696879878
+  yaw: -82.3499984741211
+  pitch: 23.55000114440918
+logoutlocation:
+  world: 0a88f819-1958-4ed1-a978-39fb1c02a04a
+  world-name: world
+  x: -966.1352684269958
+  y: 149.34856352768531
+  z: -1265.8080605481096
+  yaw: -86.701171875
+  pitch: 46.94996643066406

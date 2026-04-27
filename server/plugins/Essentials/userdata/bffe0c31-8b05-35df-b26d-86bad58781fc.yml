@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776200344759
+  login: 1776199820019
+money: '0'
+last-account-name: MasonJarZ
+logoutlocation:
+  world: a89f4888-ff57-4d82-81c0-0c32904b5a9a
+  world-name: world
+  x: -372.47950197099215
+  y: 27.0
+  z: -620.3000000119209
+  yaw: -273.85211181640625
+  pitch: 9.600227355957031
+lastlocation:
+  world: 0a88f819-1958-4ed1-a978-39fb1c02a04a
+  world-name: world
+  x: -1192.300000011921
+  y: 61.0
+  z: -1338.3588451718094
+  yaw: -101.36085510253906
+  pitch: 32.39979934692383

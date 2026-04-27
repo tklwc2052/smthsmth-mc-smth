@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776108113778
+  login: 1776106196980
+money: '0'
+last-account-name: Ball_sucker
+logoutlocation:
+  world: 0a88f819-1958-4ed1-a978-39fb1c02a04a
+  world-name: world
+  x: -670.3000000119209
+  y: 68.0
+  z: -1439.1678261524205
+  yaw: -246.8131561279297
+  pitch: 29.400012969970703
+nickname: dominator

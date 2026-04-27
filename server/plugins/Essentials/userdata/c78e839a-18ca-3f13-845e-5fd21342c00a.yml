@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1776176764697
+  login: 1776176759298
+money: '0'
+last-account-name: yaboi
+logoutlocation:
+  world: b1719dc5-7acb-4555-b34a-7e22decc9836
+  world-name: world
+  x: -91.5
+  y: 74.0
+  z: 263.5
+  yaw: 1.2537254095077515
+  pitch: 0.0
