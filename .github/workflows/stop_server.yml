@@ -12,4 +12,4 @@ jobs:
       - name: Stop Codespace
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh codespace stop -c super-guide-x5x79v7xwxj92v7gx
+        run: gh codespace stop --codespace super-guide-x5x79v7xwxj92v7gx
