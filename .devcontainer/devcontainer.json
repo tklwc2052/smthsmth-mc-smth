@@ -2,5 +2,20 @@
   "name": "Eagler",
   "build": {
     "dockerfile": "Dockerfile"
-  }
+  },
+  "customizations": {
+    "codespaces": {
+      "openPorts": [
+        {
+          "port": 8081,
+          "visibility": "public"
+        },
+        {
+          "port": 25565,
+          "visibility": "public"
+        }
+      ]
+    }
+  },
+  "postStartCommand": "bash startup.sh"
 }

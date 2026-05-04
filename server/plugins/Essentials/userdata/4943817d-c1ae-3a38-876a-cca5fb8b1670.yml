@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1776218820779
-  login: 1776218889073
+  logout: 1777913033008
+  login: 1777913432129
 money: '0'
 last-account-name: Da_Doge_Dog
 lastlocation:
@@ -31,9 +31,9 @@ lastlocation:
 logoutlocation:
   world: a89f4888-ff57-4d82-81c0-0c32904b5a9a
   world-name: world
-  x: -1100.7061230521547
-  y: 34.0
-  z: 369.61061786988165
-  yaw: 120.396728515625
-  pitch: 70.5
+  x: -1107.0440511761324
+  y: 64.0
+  z: 312.7259097862596
+  yaw: 96.51099395751953
+  pitch: 46.19998550415039
 nickname: Doge

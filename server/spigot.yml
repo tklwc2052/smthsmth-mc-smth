@@ -37,7 +37,6 @@ settings:
       max: 2048.0
 commands:
   tab-complete: 0
-  log: true
   spam-exclusions:
   - /skill
   silent-commandblock-console: false
@@ -46,6 +45,7 @@ commands:
   - summon
   - testforblock
   - tellraw
+  log: true
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -63,7 +63,6 @@ stats:
 world-settings:
   default:
     verbose: true
-    mob-spawn-range: 2
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -91,6 +90,7 @@ world-settings:
       hopper-transfer: 8
       hopper-check: 1
     hopper-amount: 1
+    mob-spawn-range: 2
     random-light-updates: false
     save-structure-info: true
     dragon-death-sound-radius: 0
@@ -112,14 +112,14 @@ world-settings:
       entity: 50
     squid-spawn-range:
       min: 45.0
+    view-distance: 5
     item-despawn-rate: 6000
     merge-radius:
       item: 2.5
       exp: 3.0
-    view-distance: 5
     arrow-despawn-rate: 1200
-    enable-zombie-pigmen-portal-spawns: true
     wither-spawn-sound-radius: 0
+    enable-zombie-pigmen-portal-spawns: true
     hanging-tick-frequency: 100
     zombie-aggressive-towards-villager: true
     nerf-spawner-mobs: false

@@ -1,176 +1,177 @@
-[13:35:12] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[13:35:12] [Server thread/INFO]: Loading properties
-[13:35:12] [Server thread/INFO]: Default game type: SURVIVAL
-[13:35:12] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[13:35:12] [Server thread/INFO]: Debug logging is disabled
-[13:35:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:35:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:35:12] [Server thread/INFO]: Generating keypair
-[13:35:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:35:12] [Server thread/INFO]: Using epoll channel type
-[13:35:13] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[13:35:13] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.5.38
-[13:35:13] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[13:35:13] [Server thread/INFO]: [Heartsteal] Loading Heartsteal v3.0-ALPHA
-[13:35:13] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
-[13:35:13] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
-[13:35:13] [Server thread/INFO]: [Essentials] Loading Essentials v2.22.0-dev+75-8e3b24f
-[13:35:13] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.1
-[13:35:13] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.21.2
-[13:35:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:35:13] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.38
-[13:35:14] [Server thread/INFO]:         __    
-[13:35:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.38
-[13:35:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[13:35:14] [Server thread/INFO]: 
-[13:35:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[13:35:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[13:35:16] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[13:35:16] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2326ms)
-[13:35:16] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
-[13:35:16] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[13:35:16] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[13:35:16] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
-[13:35:16] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
-[13:35:16] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
-[13:35:16] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
-[13:35:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:35:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:35:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:35:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:35:16] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[13:35:16] [Server thread/INFO]: Preparing level "world"
-[13:35:16] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:35:16] [Server thread/INFO]: Mob Spawn Range: 2
-[13:35:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:35:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[13:35:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:35:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:35:16] [Server thread/INFO]: Random Lighting Updates: false
-[13:35:16] [Server thread/INFO]: Structure Info Saving: true
-[13:35:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[13:35:16] [Server thread/INFO]: Max TNT Explosions: 100
-[13:35:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:35:16] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:35:16] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:35:16] [Server thread/INFO]: View Distance: 5
-[13:35:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:35:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:35:16] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:35:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:35:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:35:17] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[13:35:17] [Server thread/INFO]: Mob Spawn Range: 2
-[13:35:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[13:35:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:35:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:35:17] [Server thread/INFO]: Random Lighting Updates: false
-[13:35:17] [Server thread/INFO]: Structure Info Saving: true
-[13:35:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[13:35:17] [Server thread/INFO]: Max TNT Explosions: 100
-[13:35:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:35:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:35:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:35:17] [Server thread/INFO]: View Distance: 5
-[13:35:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:35:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:35:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:35:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:35:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:35:17] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[13:35:17] [Server thread/INFO]: Mob Spawn Range: 2
-[13:35:17] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:35:17] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[13:35:17] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:35:17] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:35:17] [Server thread/INFO]: Random Lighting Updates: false
-[13:35:17] [Server thread/INFO]: Structure Info Saving: true
-[13:35:17] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[13:35:17] [Server thread/INFO]: Max TNT Explosions: 100
-[13:35:17] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:35:17] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:35:17] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:35:17] [Server thread/INFO]: View Distance: 5
-[13:35:17] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:35:17] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:35:17] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:35:17] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:35:17] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:35:17] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7285170662949969224)
-[13:35:18] [Server thread/INFO]: Preparing spawn area: 0%
-[13:35:19] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7285170662949969224)
-[13:35:20] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7285170662949969224)
-[13:35:21] [Server thread/INFO]: [Heartsteal] Enabling Heartsteal v3.0-ALPHA
-[13:35:21] [Server thread/INFO]: [Heartsteal] Heartsteal enabled with configurable settings!
-[13:35:21] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+75-8e3b24f
-[13:35:21] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
-[13:35:22] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[13:35:22] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for ContainerProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.9-1.12.2 Spawn Egg Provider as the provider for SpawnEggProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Legacy Banner Meta Provider as the provider for BannerDataProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for TickCountProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for SerializationProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Reflection Server State Provider as the provider for ServerStateProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for SignDataProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Bukkit Tile Entity Provider as the provider for TileEntityProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[13:35:22] [Server thread/INFO]: [Essentials] No provider found for MaterialTagProvider, but it is nullable
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Reflection Persistent Data Container Provider as the provider for PersistentDataProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[13:35:22] [Server thread/INFO]: [Essentials] Loaded 853 items from items.csv.
-[13:35:22] [Server thread/INFO]: [Essentials] Using locale en
-[13:35:22] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[13:35:22] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[13:35:22] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[13:35:22] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
-[13:35:22] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
-[13:35:22] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[13:35:22] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[13:35:23] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[13:35:23] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[13:35:23] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.2
-[13:35:23] [Server thread/ERROR]: Error occurred while enabling EssentialsChat v2.21.2 (Is it up to date?)
+[14:53:03] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[14:53:03] [Server thread/INFO]: Loading properties
+[14:53:03] [Server thread/INFO]: Default game type: SURVIVAL
+[14:53:04] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[14:53:04] [Server thread/INFO]: Debug logging is disabled
+[14:53:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:53:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:53:04] [Server thread/INFO]: Generating keypair
+[14:53:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:53:04] [Server thread/INFO]: Using epoll channel type
+[14:53:04] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[14:53:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.5.38
+[14:53:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:53:05] [Server thread/INFO]: [Heartsteal] Loading Heartsteal v3.0-ALPHA
+[14:53:05] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[14:53:05] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[14:53:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.22.0-dev+75-8e3b24f
+[14:53:05] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.1
+[14:53:05] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.21.2
+[14:53:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:53:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.38
+[14:53:06] [Server thread/INFO]:         __    
+[14:53:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.38
+[14:53:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:53:06] [Server thread/INFO]: 
+[14:53:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:53:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:53:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:53:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1561ms)
+[14:53:07] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[14:53:07] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:53:07] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:53:07] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[14:53:07] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:53:07] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[14:53:07] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[14:53:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:53:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:53:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:53:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:53:07] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[14:53:07] [Server thread/INFO]: Preparing level "world"
+[14:53:07] [Server thread/INFO]: -------- World Settings For [world] --------
+[14:53:07] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:53:07] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:53:07] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:53:07] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:53:07] [Server thread/INFO]: Mob Spawn Range: 2
+[14:53:07] [Server thread/INFO]: Random Lighting Updates: false
+[14:53:07] [Server thread/INFO]: Structure Info Saving: true
+[14:53:07] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:53:07] [Server thread/INFO]: Max TNT Explosions: 100
+[14:53:07] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:53:07] [Server thread/INFO]: View Distance: 5
+[14:53:07] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:53:07] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:53:07] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:53:07] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:53:07] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:53:07] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:53:07] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:53:08] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[14:53:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:53:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:53:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:53:08] [Server thread/INFO]: Mob Spawn Range: 2
+[14:53:08] [Server thread/INFO]: Random Lighting Updates: false
+[14:53:08] [Server thread/INFO]: Structure Info Saving: true
+[14:53:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:53:08] [Server thread/INFO]: Max TNT Explosions: 100
+[14:53:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:53:08] [Server thread/INFO]: View Distance: 5
+[14:53:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:53:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:53:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:53:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:53:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:53:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:53:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:53:08] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[14:53:08] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Cane Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Melon Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Vine Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[14:53:08] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[14:53:08] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[14:53:08] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[14:53:08] [Server thread/INFO]: Mob Spawn Range: 2
+[14:53:08] [Server thread/INFO]: Random Lighting Updates: false
+[14:53:08] [Server thread/INFO]: Structure Info Saving: true
+[14:53:08] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[14:53:08] [Server thread/INFO]: Max TNT Explosions: 100
+[14:53:08] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[14:53:08] [Server thread/INFO]: View Distance: 5
+[14:53:08] [Server thread/INFO]: Item Despawn Rate: 6000
+[14:53:08] [Server thread/INFO]: Item Merge Radius: 2.5
+[14:53:08] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[14:53:08] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[14:53:08] [Server thread/INFO]: Experience Merge Radius: 3.0
+[14:53:08] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[14:53:08] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[14:53:08] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7285170662949969224)
+[14:53:10] [Server thread/INFO]: Preparing spawn area: 0%
+[14:53:11] [Server thread/INFO]: Preparing spawn area: 11%
+[14:53:11] [Server thread/INFO]: Preparing start region for level 1 (Seed: 7285170662949969224)
+[14:53:11] [Server thread/INFO]: Preparing start region for level 2 (Seed: 7285170662949969224)
+[14:53:12] [Server thread/INFO]: [Heartsteal] Enabling Heartsteal v3.0-ALPHA
+[14:53:12] [Server thread/INFO]: [Heartsteal] Heartsteal enabled with configurable settings!
+[14:53:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0-dev+75-8e3b24f
+[14:53:13] [Server thread/WARN]: [Essentials] Version mismatch! Please update EssentialsChat to the same version.
+[14:53:13] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:53:13] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Bukkit Tile Entity Provider as the provider for TileEntityProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Reflection Persistent Data Container Provider as the provider for PersistentDataProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Reflection Server State Provider as the provider for ServerStateProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for BiomeKeyProvider, but it is nullable
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for MaterialTagProvider, but it is nullable
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for SerializationProvider, but it is nullable
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for SignDataProvider, but it is nullable
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for TickCountProvider, but it is nullable
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected Legacy Banner Meta Provider as the provider for BannerDataProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[14:53:13] [Server thread/INFO]: [Essentials] Selected 1.9-1.12.2 Spawn Egg Provider as the provider for SpawnEggProvider
+[14:53:13] [Server thread/INFO]: [Essentials] No provider found for ContainerProvider, but it is nullable
+[14:53:14] [Server thread/INFO]: [Essentials] Loaded 853 items from items.csv.
+[14:53:14] [Server thread/INFO]: [Essentials] Using locale en
+[14:53:14] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:53:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:53:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[14:53:14] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:53:14] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
+[14:53:14] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[14:53:14] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[14:53:14] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[14:53:14] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[14:53:14] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.2
+[14:53:14] [Server thread/ERROR]: Error occurred while enabling EssentialsChat v2.21.2 (Is it up to date?)
 java.lang.NoClassDefFoundError: com/earth2me/essentials/utils/AdventureUtil
 	at com.earth2me.essentials.chat.EssentialsChat.onEnable(EssentialsChat.java:30) ~[?:?]
 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:264) ~[patched_1.12.2.jar:git-Paper-1620]
@@ -191,32 +192,497 @@ Caused by: java.lang.ClassNotFoundException: com.earth2me.essentials.utils.Adven
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:?]
 	... 12 more
-[13:35:23] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.2
-[13:35:23] [Server thread/INFO]: Done (6.958s)! For help, type "help" or "?"
-[13:35:23] [Server thread/INFO]: Timings Reset
-[13:35:23] [Craft Scheduler Thread - 2/INFO]: [Essentials] Fetching version information...
-[13:35:23] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
-[13:35:23] [Craft Scheduler Thread - 4/INFO]: [Vault] Checking for Updates ... 
-[13:35:23] [Craft Scheduler Thread - 4/INFO]: [Vault] No new version available
-[13:35:24] [Craft Scheduler Thread - 2/WARN]: [Essentials] You're 29 EssentialsX dev build(s) out of date!
-[13:35:24] [Craft Scheduler Thread - 2/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[13:39:58] [Server thread/INFO]: Stopping the server
-[13:39:58] [Server thread/INFO]: Stopping server
-[13:39:58] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.1
-[13:39:58] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[13:39:58] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[13:39:58] [Server thread/INFO]: [Essentials] Disabling Essentials v2.22.0-dev+75-8e3b24f
-[13:39:58] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[13:39:58] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.5.1
-[13:39:58] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
-[13:39:58] [Server thread/INFO]: [Heartsteal] Disabling Heartsteal v3.0-ALPHA
-[13:39:58] [Server thread/INFO]: [Heartsteal] Heartsteal plugin disabled!
-[13:39:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.38
-[13:39:58] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[13:39:58] [Server thread/INFO]: [LuckPerms] Closing storage...
-[13:39:58] [Server thread/INFO]: [LuckPerms] Goodbye!
-[13:39:58] [Server thread/INFO]: Saving players
-[13:39:58] [Server thread/INFO]: Saving worlds
-[13:39:58] [Server thread/INFO]: Saving chunks for level 'world'/overworld
-[13:39:58] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
-[13:39:58] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end
+[14:53:14] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.21.2
+[14:53:15] [Server thread/INFO]: Done (8.043s)! For help, type "help" or "?"
+[14:53:15] [Server thread/INFO]: Timings Reset
+[14:53:15] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[14:53:15] [Craft Scheduler Thread - 3/INFO]: [Essentials] Fetching version information...
+[14:53:15] [Craft Scheduler Thread - 5/INFO]: [Vault] Checking for Updates ... 
+[14:53:16] [Craft Scheduler Thread - 5/INFO]: [Vault] No new version available
+[14:53:16] [Craft Scheduler Thread - 3/WARN]: [Essentials] You're 36 EssentialsX dev build(s) out of date!
+[14:53:16] [Craft Scheduler Thread - 3/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[14:54:34] [User Authenticator #1/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[14:54:35] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:45818] logged in with entity id 36 at ([world]-1215.747717045062, 67.00133597911214, 407.71805582009256)
+[14:54:51] [Server thread/INFO]: [Server] hi
+[14:54:58] [Async Chat Thread - #0/INFO]: <~Doge> ello
+[14:55:17] [Async Chat Thread - #0/INFO]: <~Doge> why do i already have stuff
+[14:55:40] [Server thread/INFO]: [Server] cuz its the same server as last month
+[14:55:45] [Async Chat Thread - #0/INFO]: <~Doge> ohh
+[14:55:48] [Async Chat Thread - #0/INFO]: <~Doge> ok
+[14:58:25] [Server thread/INFO]: [Server] i think i got it workng so that it will lag less
+[14:58:45] [Server thread/INFO]: [Server] it launches into about:blank insted of a blob url
+[14:58:56] [Async Chat Thread - #1/INFO]: <~Doge> oh
+[14:59:25] [Async Chat Thread - #1/INFO]: <~Doge> almost just died
+[14:59:27] [Server thread/INFO]: [Server] it still seems to save ur configs tho
+[14:59:29] [Server thread/INFO]: [Server] oh dam
+[14:59:40] [Async Chat Thread - #1/INFO]: <~Doge> fell into a revein
+[14:59:49] [Async Chat Thread - #1/INFO]: <~Doge> but there was water
+[14:59:56] [Server thread/INFO]: [Server] oh nice
+[15:00:39] [Async Chat Thread - #1/INFO]: <~Doge> WHAT
+[15:00:43] [Async Chat Thread - #1/INFO]: <~Doge> HOLY LUCK
+[15:01:59] [Server thread/INFO]: [Server] wut
+[15:02:08] [Async Chat Thread - #2/INFO]: <~Doge> i was mining down
+[15:02:11] [Server thread/INFO]: [Server] yuh
+[15:02:13] [Async Chat Thread - #2/INFO]: <~Doge> to diamond level
+[15:02:20] [Server thread/INFO]: [Server] yuh2
+[15:02:29] [Async Chat Thread - #2/INFO]: <~Doge> and it was fr "diamond" level
+[15:02:39] [Server thread/INFO]: [Server] did u mine into dimaonds
+[15:02:43] [Async Chat Thread - #2/INFO]: <~Doge> mhm
+[15:02:50] [Server thread/INFO]: [Server] hole
+[15:02:52] [Server thread/INFO]: [Server] e
+[15:02:55] [Async Chat Thread - #2/INFO]: <~Doge> 4
+[15:02:55] [Server thread/INFO]: [Server] shat
+[15:03:20] [Server thread/INFO]: [Server] should i get lunch today
+[15:03:21] [Async Chat Thread - #2/INFO]: <~Doge> dang 2 lucky things in a row
+[15:03:26] [Async Chat Thread - #2/INFO]: <~Doge> idk
+[15:04:55] [Server thread/INFO]: [Server] wut
+[15:05:02] [Server thread/INFO]: [Server] oh nvm
+[15:05:05] [User Authenticator #2/INFO]: UUID of player MasonJarZ is bffe0c31-8b05-35df-b26d-86bad58781fc
+[15:05:06] [Server thread/INFO]: MasonJarZ[/0:0:0:0:0:0:0:1%0:54254] logged in with entity id 2522 at ([world]-372.47950197099215, 27.0, -620.3000000119209)
+[15:05:10] [Server thread/INFO]: [Server] hi mason
+[15:05:16] [Async Chat Thread - #3/INFO]: <MasonJarZ> hello
+[15:05:18] [User Authenticator #2/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[15:05:19] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:37648] logged in with entity id 2602 at ([world]-159.5, 72.0, -176.5)
+[15:05:22] [Async Chat Thread - #3/INFO]: <~Doge> this lag is gonna kill me
+[15:05:23] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:05:27] [Server thread/INFO]: [Server] hi dominik
+[15:05:37] [Server thread/INFO]: [Server] idk why its lagging so bad
+[15:06:13] [Async Chat Thread - #3/INFO]: <Dominik> so we did reset
+[15:06:18] [Async Chat Thread - #3/INFO]: <~Doge> no
+[15:06:30] [Async Chat Thread - #3/INFO]: <Dominik> i don't have anything
+[15:06:35] [Async Chat Thread - #3/INFO]: <Dominik> wait
+[15:06:37] [Server thread/INFO]: Dominik lost connection: Disconnected
+[15:06:37] [Server thread/INFO]: Dominik left the game
+[15:06:49] [User Authenticator #3/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[15:06:49] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:33446] logged in with entity id 3248 at ([world]-187.29095798056133, 75.0, -188.50514937572567)
+[15:06:50] [Async Chat Thread - #3/INFO]: <~Doge> THIS LAGGGGGGGGGGGG
+[15:06:55] [Server thread/INFO]: [Server] idk why its so bad
+[15:06:59] [Async Chat Thread - #3/INFO]: <MasonJarZ> I have full iron and diamond pickaxe
+[15:07:05] [Async Chat Thread - #3/INFO]: <Dominik> ye i don't have my stuff
+[15:07:24] [Server thread/INFO]: Dominik issued server command: /withdraw
+[15:07:26] [User Authenticator #3/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[15:07:26] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:55440] logged in with entity id 3966 at ([world]-1148.6811839935015, 72.0, 277.62227135283763)
+[15:07:50] [Async Chat Thread - #3/INFO]: <Dominik> i don't have anything
+[15:07:52] [Async Chat Thread - #3/INFO]: <kl_> gng what lag are u talking abt
+[15:07:52] [Server thread/INFO]: Dominik lost connection: Disconnected
+[15:07:52] [Server thread/INFO]: Dominik left the game
+[15:07:54] [Server thread/INFO]: kl_ lost connection: Disconnected
+[15:07:54] [Server thread/INFO]: kl_ left the game
+[15:08:53] [Async Chat Thread - #4/INFO]: <~Doge> im getting a lot of diamonds
+[15:09:00] [Async Chat Thread - #4/INFO]: <~Doge> i have 14 rn
+[15:09:36] [Async Chat Thread - #4/INFO]: <~Doge> BRO
+[15:09:40] [Async Chat Thread - #4/INFO]: <MasonJarZ> I am in a cave rn
+[15:09:46] [Async Chat Thread - #4/INFO]: <~Doge> THIS LAG HOLY SHIT
+[15:09:54] [Async Chat Thread - #4/INFO]: <MasonJarZ> IT SUCKS
+[15:10:05] [Async Chat Thread - #4/INFO]: <MasonJarZ> I GTG PROJCT gotta do
+[15:10:10] [Async Chat Thread - #4/INFO]: <~Doge> EVERYTHING I DO
+[15:10:10] [Server thread/INFO]: MasonJarZ lost connection: Disconnected
+[15:10:10] [Server thread/INFO]: MasonJarZ left the game
+[15:10:20] [Async Chat Thread - #4/INFO]: <~Doge> IS DELAYED BY 3 SECONDS
+[15:11:01] [Server thread/INFO]: [Server] idk
+[15:11:11] [Async Chat Thread - #4/INFO]: <~Doge> dude
+[15:11:24] [Async Chat Thread - #4/INFO]: <~Doge> its literily not possible to play
+[15:11:24] [User Authenticator #4/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[15:11:24] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:55052] logged in with entity id 4163 at ([world]-161.71047901438732, 72.0, -227.27412004271346)
+[15:11:31] [Server thread/INFO]: [Server] idk wut to say
+[15:11:47] [Async Chat Thread - #4/INFO]: <~Doge> ur the owner vro do something abt it
+[15:12:03] [Server thread/INFO]: [Server] i cant change ur configs for u
+[15:12:09] [Async Chat Thread - #4/INFO]: <~Doge> BRO HOLY
+[15:12:12] [Async Chat Thread - #4/INFO]: <Dominik> guess im starting from scratch
+[15:12:29] [Server thread/INFO]: [Server] i had m settings at the optimal ones and i experienced little to no lag
+[15:12:47] [Async Chat Thread - #4/INFO]: <~Doge> i have everything turned to what u said
+[15:12:53] [Async Chat Thread - #4/INFO]: <~Doge> even 60 max fps
+[15:13:02] [Async Chat Thread - #4/INFO]: <~Doge> AND THIS IS THE MOST LAG
+[15:13:17] [Async Chat Thread - #4/INFO]: <~Doge> IVE EXPERIENCED IN LIKE 2 YEARS
+[15:13:46] [Async Chat Thread - #4/INFO]: <Dominik> this is good spawn
+[15:14:00] [Async Chat Thread - #4/INFO]: <Dominik> mountains and trees
+[15:14:13] [Server thread/INFO]: Dominik has made the advancement [Stone Age]
+[15:14:22] [Async Chat Thread - #4/INFO]: <~Doge> omg
+[15:14:42] [Server thread/INFO]: [Server] dominik try loggin in with ball_sucker and see if you have anything
+[15:14:47] [Async Chat Thread - #4/INFO]: <Dominik> k
+[15:14:49] [Async Chat Thread - #4/INFO]: <~Doge> let me try rejoining
+[15:14:49] [Server thread/INFO]: Dominik lost connection: Disconnected
+[15:14:49] [Server thread/INFO]: Dominik left the game
+[15:14:55] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[15:14:55] [Server thread/INFO]: Da_Doge_Dog left the game
+[15:15:06] [User Authenticator #5/INFO]: UUID of player Ball_sucker is dfd87c7a-1e6f-3e6a-8e5c-5d5ad3d98229
+[15:15:06] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@7c3e776c[id=dfd87c7a-1e6f-3e6a-8e5c-5d5ad3d98229,name=Ball_sucker,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:45652): You are not whitelisted on this server!
+[15:15:06] [Server thread/INFO]: com.mojang.authlib.GameProfile@7c3e776c[id=dfd87c7a-1e6f-3e6a-8e5c-5d5ad3d98229,name=Ball_sucker,properties={},legacy=false] (/0:0:0:0:0:0:0:1%0:45652) lost connection: You are not whitelisted on this server!
+[15:15:15] [User Authenticator #5/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[15:15:15] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:44204] logged in with entity id 4411 at ([world]-1080.699999988079, 11.0, 696.4206120196471)
+[15:15:23] [User Authenticator #5/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[15:15:23] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:54162] logged in with entity id 4550 at ([world]-174.37964130006324, 88.0, -161.30000001192093)
+[15:15:29] [Async Chat Thread - #4/INFO]: <~Doge> and that made it WORSE
+[15:15:44] [Async Chat Thread - #4/INFO]: <Dominik> it did not let me connect as ball_sucker
+[15:16:14] [Async Chat Thread - #4/INFO]: <~Doge> WTFWTFWTFWTF
+[15:16:25] [Async Chat Thread - #4/INFO]: <~Doge> I cant even mine bro
+[15:16:27] [Async Chat Thread - #4/INFO]: <Dominik> i am talking to chai
+[15:16:40] [Async Chat Thread - #4/INFO]: <~Doge> and im not talking to you
+[15:16:40] [Async Chat Thread - #4/INFO]: <Dominik> i am mining fine
+[15:17:58] [Async Chat Thread - #5/INFO]: <~Doge> i think i fixed it
+[15:18:01] [Server thread/INFO]: [Server] wut
+[15:18:08] [Server thread/INFO]: [Server] mb i was updating stuff
+[15:18:31] [Async Chat Thread - #5/INFO]: <~Doge> is that why i lagged?
+[15:18:48] [Server thread/INFO]: Dominik has made the advancement [Getting an Upgrade]
+[15:19:15] [Async Chat Thread - #5/INFO]: <~Doge> i thought i dominiks advancment was for me getting lapiz LOL
+[15:19:23] [Async Chat Thread - #5/INFO]: <Dominik> hahah
+[15:19:44] [Server thread/INFO]: [Server] lol
+[15:19:49] [Server thread/INFO]: [Server] also no
+[15:19:55] [Async Chat Thread - #5/INFO]: <~Doge> o
+[15:19:55] [Async Chat Thread - #5/INFO]: <Dominik> ?
+[15:20:11] [Async Chat Thread - #5/INFO]: <~Doge> NO
+[15:20:14] [Async Chat Thread - #5/INFO]: <~Doge> lolw\
+[15:20:16] [Async Chat Thread - #5/INFO]: <Dominik> o/
+[15:20:26] [Async Chat Thread - #5/INFO]: <Dominik> o/
+[15:20:31] [Async Chat Thread - #5/INFO]: <~Doge> o/
+[15:20:33] [Async Chat Thread - #5/INFO]: <~Doge> o/
+[15:20:34] [Async Chat Thread - #5/INFO]: <~Doge> o/
+[15:20:37] [Async Chat Thread - #5/INFO]: <~Doge> o?
+[15:20:43] [Async Chat Thread - #5/INFO]: <~Doge> oooOoooooo
+[15:20:47] [Async Chat Thread - #5/INFO]: <Dominik> that means hello
+[15:20:50] [Async Chat Thread - #5/INFO]: <Dominik> o/
+[15:20:56] [Async Chat Thread - #5/INFO]: <~Doge> oh
+[15:21:01] [Async Chat Thread - #5/INFO]: <~Doge> that means oh
+[15:21:04] [Async Chat Thread - #5/INFO]: <~Doge> lol
+[15:21:22] [Async Chat Thread - #5/INFO]: <Dominik> the circle is the head and the slash is the arm
+[15:21:25] [Async Chat Thread - #5/INFO]: <Dominik> o/
+[15:22:03] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[15:22:03] [Server thread/INFO]: Da_Doge_Dog left the game
+[15:22:11] [User Authenticator #6/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[15:22:11] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:55506] logged in with entity id 5763 at ([world]-1069.699999988079, 14.0, 691.3000000119209)
+[15:22:23] [Server thread/INFO]: Dominik lost connection: Disconnected
+[15:22:23] [Server thread/INFO]: Dominik left the game
+[15:22:32] [Server thread/INFO]: [Server] hell yeah
+[15:22:36] [Server thread/INFO]: [Server] lets go
+[15:22:45] [Async Chat Thread - #6/INFO]: <~Doge> ?
+[15:23:15] [Server thread/INFO]: [Server] i added a feature so u can like run diffrent files on launcher and it saves em
+[15:23:22] [Server thread/INFO]: [Server] so like u can launch snowrider
+[15:23:24] [Server thread/INFO]: [Server] but also mc
+[15:23:29] [Server thread/INFO]: [Server] and have both of them save
+[15:24:15] [Async Chat Thread - #7/INFO]: <~Doge> NAH IM GOOD
+[15:24:27] [User Authenticator #7/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[15:24:27] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:43704] logged in with entity id 6528 at ([world]-192.3155971881855, 64.0, -204.48337596357052)
+[15:24:40] [Async Chat Thread - #7/INFO]: <~Doge> im gooooooooooooood
+[15:24:45] [Async Chat Thread - #7/INFO]: <~Doge> very very good
+[15:24:52] [Async Chat Thread - #7/INFO]: <~Doge> nope no thankkkkkkkkkkkkkk you
+[15:25:09] [Async Chat Thread - #7/INFO]: <~Doge> not going back there
+[15:25:21] [Async Chat Thread - #7/INFO]: <~Doge> to 30 zombies and 20 skellys
+[15:25:39] [Async Chat Thread - #7/INFO]: <~Doge> and a 8 leged creatcher
+[15:26:00] [Async Chat Thread - #7/INFO]: <Dominik> 16 iron ore vein
+[15:26:04] [Async Chat Thread - #7/INFO]: <~Doge> nice
+[15:26:06] [Async Chat Thread - #7/INFO]: <Dominik> near spawn
+[15:26:09] [Server thread/INFO]: [Server] oh dam
+[15:26:18] [Async Chat Thread - #7/INFO]: <~Doge> kl
+[15:26:24] [Async Chat Thread - #7/INFO]: <~Doge> im in half diamond rn
+[15:26:31] [Async Chat Thread - #7/INFO]: <~Doge> and yes i made diamond tools
+[15:26:44] [Async Chat Thread - #7/INFO]: <Dominik> it was a little hole that lead to water pit that lead to small hole with iron
+[15:26:54] [Async Chat Thread - #7/INFO]: <Dominik> and in toatal i got 27
+[15:26:58] [Async Chat Thread - #7/INFO]: <Dominik> ion
+[15:27:02] [Async Chat Thread - #7/INFO]: <Dominik> iron
+[15:27:13] [Async Chat Thread - #7/INFO]: <Dominik> amd coal
+[15:27:22] [Async Chat Thread - #7/INFO]: <~Doge> ._.
+[15:27:37] [Async Chat Thread - #7/INFO]: <Dominik> just 20 blocks from spawn
+[15:27:43] [Async Chat Thread - #7/INFO]: <~Doge> damn
+[15:27:54] [Async Chat Thread - #7/INFO]: <Dominik> maybye 15 blocks
+[15:28:01] [Async Chat Thread - #7/INFO]: <Dominik> o less
+[15:28:03] [Async Chat Thread - #7/INFO]: <~Doge> bro got a starter kit lol
+[15:28:08] [Async Chat Thread - #7/INFO]: <Dominik> hahah
+[15:29:03] [Async Chat Thread - #7/INFO]: <~Doge> bro skellys are impossible to kill when you get a slight lag spike :sob:
+[15:29:23] [Async Chat Thread - #7/INFO]: <Dominik> :(
+[15:29:27] [Server thread/INFO]: Dominik has made the advancement [Acquire Hardware]
+[15:29:27] [Async Chat Thread - #7/INFO]: <~Doge> ._.
+[15:29:44] [Async Chat Thread - #7/INFO]: <~Doge> creeper gang jumpscare
+[15:29:51] [Server thread/INFO]: [Server] lol
+[15:29:55] [Server thread/INFO]: [Server] oh dam
+[15:31:20] [Async Chat Thread - #8/INFO]: <~Doge> wow im lucky today
+[15:31:38] [Async Chat Thread - #8/INFO]: <~Doge> excaped death a few times
+[15:31:45] [Async Chat Thread - #8/INFO]: <~Doge> found 4 diamond vains
+[15:32:00] [Async Chat Thread - #8/INFO]: <~Doge> and now a skelly dropped a over half dur bow
+[15:32:11] [Async Chat Thread - #8/INFO]: <~Doge> its in light green zone
+[15:32:14] [Async Chat Thread - #8/INFO]: <~Doge> w
+[15:32:29] [Async Chat Thread - #8/INFO]: <~Doge> dominik
+[15:32:35] [Async Chat Thread - #8/INFO]: <Dominik> i can aleady get full iron
+[15:32:38] [Async Chat Thread - #8/INFO]: <Dominik> ye
+[15:32:40] [Async Chat Thread - #8/INFO]: <~Doge> wanna meet up at spawn?
+[15:32:50] [Async Chat Thread - #8/INFO]: <Dominik> i am already there
+[15:32:53] [Async Chat Thread - #8/INFO]: <~Doge> o ok
+[15:33:23] [Server thread/INFO]: Dominik has made the advancement [Suit Up]
+[15:34:16] [Async Chat Thread - #9/INFO]: <Dominik> where are you
+[15:34:27] [Async Chat Thread - #9/INFO]: <~Doge> getting to the surface
+[15:35:36] [Async Chat Thread - #10/INFO]: <Dominik> x: -242, y: 59, z: -242
+[15:35:47] [Async Chat Thread - #10/INFO]: <~Doge> i was about to ask lol
+[15:36:18] [Async Chat Thread - #10/INFO]: <Dominik> hahah. i just saw a skeleton walk bye
+[15:37:39] [Server thread/INFO]: [Server] im hopping on
+[15:37:39] [Async Chat Thread - #11/INFO]: <Dominik> what are ur cords
+[15:37:45] [Async Chat Thread - #11/INFO]: <Dominik> quen
+[15:37:49] [Async Chat Thread - #11/INFO]: <Dominik> t
+[15:38:03] [Async Chat Thread - #11/INFO]: <~Doge> -898 64 420
+[15:38:41] [User Authenticator #8/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[15:38:41] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:60474] logged in with entity id 8793 at ([world]-1159.0006722546536, 73.0, 262.1077405864451)
+[15:38:49] [Async Chat Thread - #11/INFO]: <kl_> hi
+[15:38:55] [Async Chat Thread - #11/INFO]: <~Doge> ello
+[15:39:29] [Async Chat Thread - #11/INFO]: <kl_> guys meet up at -1102 61 312
+[15:39:38] [Async Chat Thread - #11/INFO]: <~Doge> DAWG
+[15:39:43] [Async Chat Thread - #11/INFO]: <~Doge> bruh nvm
+[15:40:02] [Async Chat Thread - #11/INFO]: <kl_> fuh the lag is still there kinda
+[15:40:02] [Async Chat Thread - #11/INFO]: <Dominik> bruh i am at spawn
+[15:40:11] [Async Chat Thread - #11/INFO]: <kl_> its not that far :sob:
+[15:40:14] [Async Chat Thread - #11/INFO]: <Dominik> i don't have any lagg
+[15:40:23] [Async Chat Thread - #11/INFO]: <Dominik> and it is night
+[15:40:31] [Async Chat Thread - #11/INFO]: <Dominik> and i have no food
+[15:40:46] [Server thread/INFO]: Dominik issued server command: /?
+[15:40:52] [Async Chat Thread - #11/INFO]: <~Doge> WHAT
+[15:40:59] [Async Chat Thread - #11/INFO]: <Dominik> what
+[15:41:02] [Async Chat Thread - #11/INFO]: <~Doge> SENCE WHEN
+[15:41:08] [Async Chat Thread - #11/INFO]: <Dominik> hu
+[15:41:08] [Async Chat Thread - #11/INFO]: <~Doge> CAN A DAMN COW
+[15:41:17] [Async Chat Thread - #11/INFO]: <Dominik> ?
+[15:41:29] [Async Chat Thread - #11/INFO]: <~Doge> SURVIVE A DIAMOND AXE CRIT AND 3 SWINGS FROM A DIAMOND SWORD
+[15:41:36] [Async Chat Thread - #11/INFO]: <Dominik> HUUUUUUUU
+[15:41:46] [Async Chat Thread - #11/INFO]: <~Doge> WTF
+[15:41:56] [Async Chat Thread - #11/INFO]: <Dominik> wait it only does that if it is laggy enugh
+[15:42:10] [Async Chat Thread - #11/INFO]: <~Doge> im not even lagging :sob:
+[15:42:22] [Async Chat Thread - #11/INFO]: <kl_> bai
+[15:42:23] [Server thread/INFO]: kl_ lost connection: Disconnected
+[15:42:23] [Server thread/INFO]: kl_ left the game
+[15:43:29] [Server thread/INFO]: [Server] oh lets go it does save
+[15:43:46] [Async Chat Thread - #12/INFO]: <Dominik> are we still meating quent
+[15:43:50] [Async Chat Thread - #12/INFO]: <Dominik> meeting
+[15:43:57] [Server thread/INFO]: [Server] ?
+[15:44:00] [Server thread/INFO]: [Server] oh
+[15:44:05] [Async Chat Thread - #12/INFO]: <~Doge> 1 ye but at kls spot
+[15:44:14] [Async Chat Thread - #12/INFO]: <Dominik> tp?
+[15:44:17] [Async Chat Thread - #12/INFO]: <~Doge> and 2 plz just call me doge on the server
+[15:44:25] [Async Chat Thread - #12/INFO]: <Dominik> dawg
+[15:44:36] [Async Chat Thread - #12/INFO]: <Dominik> you dawg
+[15:45:39] [Async Chat Thread - #13/INFO]: <~Doge> im dawg?
+[15:45:40] [Async Chat Thread - #13/INFO]: <Dominik> 4 creepers
+[15:45:49] [Async Chat Thread - #13/INFO]: <~Doge> GUNPOWDERRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+[15:46:02] [Async Chat Thread - #13/INFO]: <Dominik> what were the cords
+[15:46:18] [Async Chat Thread - #13/INFO]: <~Doge> ./tp doge dominik
+[15:46:24] [Server thread/INFO]: Dominik issued server command: /tp doge
+[15:46:24] [Server thread/INFO]: [Essentials] Dominik was denied access to command.
+[15:46:29] [Async Chat Thread - #13/INFO]: <Dominik> can't
+[15:47:00] [Async Chat Thread - #13/INFO]: <~Doge> kl whats the cords again?
+[15:48:02] [Async Chat Thread - #14/INFO]: <Dominik> holy ravine
+[15:48:31] [Async Chat Thread - #14/INFO]: <Dominik> a one block hole to a ravine
+[15:48:38] [Async Chat Thread - #14/INFO]: <~Doge> lol
+[15:48:46] [Async Chat Thread - #14/INFO]: <Dominik> and it is huge
+[15:48:48] [Async Chat Thread - #14/INFO]: <~Doge> starter pack p2
+[15:48:55] [Async Chat Thread - #14/INFO]: <~Doge> no
+[15:49:00] [Async Chat Thread - #14/INFO]: <~Doge> mid game pack
+[15:49:01] [Async Chat Thread - #14/INFO]: <Dominik> at least a 25 block drop
+[15:49:14] [Async Chat Thread - #14/INFO]: <~Doge> but it cost like 4 hearts
+[15:49:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[15:49:19] [Async Chat Thread - #14/INFO]: <~Doge> no wait
+[15:49:23] [Server thread/INFO]: [Server] idk ill get on at lunch
+[15:49:23] [Async Chat Thread - #14/INFO]: <Dominik> but there is water
+[15:49:25] [Async Chat Thread - #14/INFO]: <~Doge> 25 blocks...
+[15:49:29] [Server thread/INFO]: [Server] also the comands are /tpa
+[15:49:34] [Server thread/INFO]: [Server] but u dont have them lol
+[15:49:43] [Async Chat Thread - #14/INFO]: <~Doge> noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[15:49:50] [Async Chat Thread - #14/INFO]: <Dominik> what
+[15:49:57] [Server thread/INFO]: Da_Doge_Dog issued server command: /tpahere dominik
+[15:49:57] [Server thread/INFO]: [Essentials] Da_Doge_Dog was denied access to command.
+[15:50:22] [Async Chat Thread - #14/INFO]: <~Doge> no tpa = no tpa to creepers
+[15:50:35] [Async Chat Thread - #14/INFO]: <~Doge> no tpa to creepers = no gunpowder
+[15:50:52] [Async Chat Thread - #14/INFO]: <~Doge> no gunpowder = no tnt minecart
+[15:51:02] [Async Chat Thread - #14/INFO]: <~Doge> no tnt minecart = no fun :<
+[15:51:10] [Async Chat Thread - #14/INFO]: <~Doge> no fun :< = rage
+[15:51:21] [Async Chat Thread - #14/INFO]: <~Doge> rage = server dominination
+[15:51:30] [Async Chat Thread - #14/INFO]: <~Doge> server dominiation = no server
+[15:51:40] [Async Chat Thread - #14/INFO]: <~Doge> no server = everyone made
+[15:51:54] [Async Chat Thread - #14/INFO]: <~Doge> everyone mad = world dominiation
+[15:52:09] [Async Chat Thread - #14/INFO]: <Dominik> world of dominik
+[15:52:22] [Async Chat Thread - #14/INFO]: <~Doge> world domination = humanity mad
+[15:52:38] [Async Chat Thread - #14/INFO]: <~Doge> humanity mad = universal domination
+[15:52:57] [Async Chat Thread - #14/INFO]: <~Doge> universal domination = everything gets destroyed
+[15:53:12] [Async Chat Thread - #14/INFO]: <~Doge> everything gets destroyed = nothingness
+[15:53:21] [Async Chat Thread - #14/INFO]: <~Doge> nothingness = no tpa
+[15:53:34] [Async Chat Thread - #14/INFO]: <~Doge> thats an infinent loop
+[15:53:56] [Server thread/INFO]: [Server] AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[15:54:08] [Async Chat Thread - #14/INFO]: <~Doge> SO WE NEED TPA
+[15:54:16] [Async Chat Thread - #14/INFO]: <~Doge> OR INF LOOP HAPPENS!!!!
+[15:54:28] [Server thread/INFO]: [Server] i dont even think i have luck perms on
+[15:54:31] [Server thread/INFO]: [Server] leme check
+[15:54:50] [Server thread/INFO]: [Server] why should i give tpa
+[15:55:02] [Async Chat Thread - #14/INFO]: <~Doge> for gunpowder
+[15:55:20] [Async Chat Thread - #14/INFO]: <~Doge> how abt dis
+[15:55:30] [Async Chat Thread - #14/INFO]: <~Doge> if you let us have /tpa...
+[15:55:35] [Async Chat Thread - #14/INFO]: <~Doge> igive you...
+[15:55:44] [Async Chat Thread - #14/INFO]: <~Doge> SOGGY PATATO CHIPS!!!!
+[15:55:58] [Async Chat Thread - #14/INFO]: <Dominik> ?
+[15:56:10] [Server thread/INFO]: Dominik issued server command: /back
+[15:56:10] [Server thread/INFO]: [Essentials] Dominik was denied access to command.
+[15:56:17] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:26] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:27] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:33] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:34] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:35] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:35] [Server thread/INFO]: [Server] why
+[15:56:37] [Async Chat Thread - #14/INFO]: <~Doge> kl get on
+[15:56:39] [Server thread/INFO]: [Server] why
+[15:56:40] [Server thread/INFO]: [Server] why
+[15:56:40] [Server thread/INFO]: [Server] why
+[15:56:40] [Server thread/INFO]: [Server] why
+[15:56:41] [Server thread/INFO]: [Server] why
+[15:56:41] [Server thread/INFO]: [Server] why
+[15:56:42] [Server thread/INFO]: [Server] why
+[15:56:42] [Server thread/INFO]: [Server] why
+[15:56:42] [Async Chat Thread - #14/INFO]: <~Doge> cuz idk where to go
+[15:56:44] [Server thread/INFO]: [Server] why
+[15:56:47] [Server thread/INFO]: [Server] o ok
+[15:57:16] [Async Chat Thread - #14/INFO]: <~Doge> QUESTION OF THE DAY:
+[15:57:20] [Async Chat Thread - #14/INFO]: <~Doge> WHATS
+[15:57:22] [Async Chat Thread - #14/INFO]: <~Doge> YOUR
+[15:57:27] [Async Chat Thread - #14/INFO]: <~Doge> CORRRRRRRRRRRRRRRRRDS?????
+[15:57:31] [Async Chat Thread - #14/INFO]: <~Doge> OOOOOOOOOOOOOOOOOOOOOOOOHHHHHHHHHHHHHHHHHHHHHHHH
+[15:57:35] [Async Chat Thread - #14/INFO]: <Dominik> Me?
+[15:57:41] [Async Chat Thread - #14/INFO]: <~Doge> (wtf am i doing)
+[15:57:58] [Async Chat Thread - #14/INFO]: <Dominik> CALM DOWN
+[15:57:59] [User Authenticator #9/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[15:57:59] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:36004] logged in with entity id 11809 at ([world]-1103.0012206420738, 63.0, 313.4197385323175)
+[15:58:05] [Server thread/INFO]: kl_ issued server command: /logi butter
+[15:58:13] [Async Chat Thread - #14/INFO]: <~Doge> ._.
+[15:58:16] [Async Chat Thread - #14/INFO]: <Dominik> do you have redstone
+[15:58:16] [Async Chat Thread - #14/INFO]: <kl_> hi
+[15:58:19] [Async Chat Thread - #14/INFO]: <~Doge> klklklklklkllk
+[15:58:24] [Async Chat Thread - #14/INFO]: <~Doge> wuts ur cords
+[15:58:24] [Async Chat Thread - #14/INFO]: <kl_> -1104 63 313
+[15:58:27] [Server thread/INFO]: kl_ lost connection: Disconnected
+[15:58:27] [Server thread/INFO]: kl_ left the game
+[15:58:28] [Async Chat Thread - #14/INFO]: <~Doge> YIPPIE
+[15:58:38] [Async Chat Thread - #14/INFO]: <Dominik> wait for me
+[15:59:33] [Server thread/INFO]: [Server] theres a unfinished house there
+[15:59:40] [Server thread/INFO]: [Server] i need spruce if anyone has some
+[15:59:49] [Async Chat Thread - #15/INFO]: <Dominik> i need redstone
+[15:59:52] [Async Chat Thread - #15/INFO]: <~Doge> nerp
+[16:00:10] [Async Chat Thread - #15/INFO]: <Dominik> im tryna make railroad system
+[16:00:34] [Async Chat Thread - #15/INFO]: <~Doge> i saw spruce on the way here though
+[16:00:47] [Async Chat Thread - #15/INFO]: <~Doge> i also got astack of redstone
+[16:00:47] [Server thread/INFO]: [Server] yk the cords
+[16:00:53] [Async Chat Thread - #15/INFO]: <~Doge> ye
+[16:00:55] [Async Chat Thread - #15/INFO]: <Dominik> -1104 63 313
+[16:00:56] [Async Chat Thread - #15/INFO]: <~Doge> im here
+[16:01:04] [Server thread/INFO]: [Server] no of the forest
+[16:01:10] [Async Chat Thread - #15/INFO]: <~Doge> ye im here
+[16:01:13] [Async Chat Thread - #15/INFO]: <~Doge> oh\
+[16:01:15] [Async Chat Thread - #15/INFO]: <~Doge> no
+[16:01:28] [Async Chat Thread - #15/INFO]: <Dominik> -1104 63 313
+[16:01:41] [Async Chat Thread - #15/INFO]: <~Doge> i thinkits like 500 blocks psitive x though
+[16:01:47] [Async Chat Thread - #15/INFO]: <Dominik> im doing it so it doesn't dissapear
+[16:01:53] [Async Chat Thread - #15/INFO]: <~Doge> positive from -1100
+[16:02:01] [Async Chat Thread - #15/INFO]: <Dominik> -1104 63 313
+[16:02:16] [Async Chat Thread - #15/INFO]: <~Doge> kk
+[16:02:32] [Async Chat Thread - #15/INFO]: <~Doge> -1100 64 313
+[16:02:41] [Async Chat Thread - #15/INFO]: <~Doge> my exact cords
+[16:02:52] [Async Chat Thread - #15/INFO]: <Dominik> -11004 63 313
+[16:02:57] [Async Chat Thread - #15/INFO]: <~Doge> alr gtg to lunch bye
+[16:03:04] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[16:03:04] [Server thread/INFO]: Da_Doge_Dog left the game
+[16:03:09] [Async Chat Thread - #15/INFO]: <Dominik> -1104 63 313
+[16:03:20] [Server thread/INFO]: [Server] it might shut off
+[16:03:32] [Async Chat Thread - #15/INFO]: <Dominik> no
+[16:03:38] [Async Chat Thread - #15/INFO]: <Dominik> plz don't yet
+[16:05:07] [Server thread/INFO]: Dominik was slain by Enderman
+[16:05:12] [Server thread/INFO]: Dominik issued server command: /back
+[16:05:12] [Server thread/INFO]: [Essentials] Dominik was denied access to command.
+[16:05:21] [Server thread/INFO]: Dominik issued server command: /back
+[16:05:21] [Server thread/INFO]: [Essentials] Dominik was denied access to command.
+[16:08:30] [Server thread/INFO]: Dominik has made the advancement [Monster Hunter]
+[16:08:45] [Async Chat Thread - #16/INFO]: <Dominik> i killed enderman and got peral
+[16:08:51] [Async Chat Thread - #16/INFO]: <Dominik> YAY
+[16:09:03] [Async Chat Thread - #16/INFO]: <Dominik> :)
+[16:09:43] [User Authenticator #10/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[16:09:43] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:55940] logged in with entity id 12645 at ([world]-1098.8201736118915, 64.0, 311.53977382239896)
+[16:10:04] [Async Chat Thread - #17/INFO]: <Dominik> hello i ki;;ed an enderman
+[16:10:13] [Async Chat Thread - #17/INFO]: <Dominik> -1104 63 313
+[16:10:32] [Async Chat Thread - #17/INFO]: <~Doge> yes
+[16:11:07] [Server thread/INFO]: Dominik issued server command: /set home
+[16:11:12] [User Authenticator #11/INFO]: UUID of player MasonJarZ is bffe0c31-8b05-35df-b26d-86bad58781fc
+[16:11:12] [Server thread/INFO]: MasonJarZ[/0:0:0:0:0:0:0:1%0:58278] logged in with entity id 12906 at ([world]-372.01499837933034, 27.0, -626.6999999880791)
+[16:11:51] [User Authenticator #11/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[16:11:52] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:43720] logged in with entity id 13161 at ([world]-1103.0012206420738, 63.0, 313.4197385323175)
+[16:12:34] [Server thread/INFO]: MasonJarZ lost connection: Disconnected
+[16:12:34] [Server thread/INFO]: MasonJarZ left the game
+[16:13:11] [Async Chat Thread - #18/INFO]: <kl_> im gonna destroy ur pus
+[16:13:13] [User Authenticator #12/INFO]: UUID of player MasonJarZ is bffe0c31-8b05-35df-b26d-86bad58781fc
+[16:13:13] [Server thread/INFO]: MasonJarZ[/0:0:0:0:0:0:0:1%0:48896] logged in with entity id 13559 at ([world]-372.31497059452937, 27.0, -625.8050972630177)
+[16:14:54] [Server thread/INFO]: kl_ was slain by Da_Doge_Dog
+[16:15:26] [Server thread/INFO]: kl_ lost connection: Disconnected
+[16:15:26] [Server thread/INFO]: kl_ left the game
+[16:16:49] [Async Chat Thread - #19/INFO]: <Dominik> mason
+[16:17:00] [Server thread/INFO]: Dominik lost connection: Disconnected
+[16:17:00] [Server thread/INFO]: Dominik left the game
+[16:18:46] [Async Chat Thread - #20/INFO]: <~Doge> -1100 63 315
+[16:18:49] [User Authenticator #13/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[16:18:49] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:48928] logged in with entity id 14142 at ([world]-335.30000001192093, 38.0, -178.30000001192093)
+[16:19:12] [Async Chat Thread - #20/INFO]: <Dominik> AHHHHHHHHHHH
+[16:19:17] [Async Chat Thread - #20/INFO]: <Dominik> i need food
+[16:21:27] [Server thread/INFO]: Dominik has made the advancement [Isn't It Iron Pick]
+[16:23:04] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[16:23:04] [Server thread/INFO]: Da_Doge_Dog left the game
+[16:24:22] [User Authenticator #14/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[16:24:22] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:53040] logged in with entity id 14899 at ([world]-1099.300000011921, 63.0, 315.30000001192093)
+[16:24:35] [Async Chat Thread - #21/INFO]: <Dominik> ello
+[16:24:49] [Async Chat Thread - #21/INFO]: <Dominik> why you kill kl_
+[16:24:57] [Async Chat Thread - #21/INFO]: <~Doge> he wanted me too
+[16:25:10] [Async Chat Thread - #21/INFO]: <Dominik> to see if life steal workis
+[16:25:17] [Async Chat Thread - #21/INFO]: <Dominik> works
+[16:25:20] [Async Chat Thread - #21/INFO]: <~Doge> ye
+[16:25:30] [Async Chat Thread - #21/INFO]: <~Doge> it does
+[16:25:31] [Async Chat Thread - #21/INFO]: <Dominik> do /withdraw
+[16:25:37] [Server thread/INFO]: Dominik issued server command: /withdraw
+[16:25:59] [Server thread/INFO]: Dominik issued server command: /withdraw
+[16:26:03] [Server thread/INFO]: Dominik issued server command: /withdraw
+[16:26:07] [Server thread/INFO]: Dominik issued server command: /withdraw
+[16:26:28] [Async Chat Thread - #21/INFO]: <Dominik> where are you
+[16:26:39] [Async Chat Thread - #21/INFO]: <~Doge> I WONDER WHERE
+[16:27:01] [Async Chat Thread - #21/INFO]: <~Doge> -1100 63 315
+[16:27:02] [Async Chat Thread - #21/INFO]: <Dominik> WHERE! (in batman voice)
+[16:27:25] [Async Chat Thread - #21/INFO]: <Dominik> -1104 63 313
+[16:27:33] [Async Chat Thread - #21/INFO]: <~Doge> Over here! (In micky mouse voice)
+[16:27:40] [Async Chat Thread - #21/INFO]: <Dominik> oh boy
+[16:27:49] [Async Chat Thread - #21/INFO]: <Dominik> i do voice better
+[16:29:13] [Server thread/INFO]: Dominik has made the advancement [Hot Stuff]
+[16:30:04] [Async Chat Thread - #22/INFO]: <~Doge> n cvmb ?<b ,lkl get on l.\>
+[16:30:21] [Async Chat Thread - #22/INFO]: <Dominik> i got to buckets of lava
+[16:31:40] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[16:31:40] [Server thread/INFO]: Da_Doge_Dog left the game
+[16:32:05] [User Authenticator #15/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[16:32:05] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:51596] logged in with entity id 16747 at ([world]-1099.300000011921, 63.0, 315.69999998807907)
+[16:34:21] [Server thread/INFO]: MasonJarZ lost connection: Disconnected
+[16:34:21] [Server thread/INFO]: MasonJarZ left the game
+[16:34:46] [User Authenticator #16/INFO]: UUID of player MasonJarZ is bffe0c31-8b05-35df-b26d-86bad58781fc
+[16:34:47] [Server thread/INFO]: MasonJarZ[/0:0:0:0:0:0:0:1%0:51234] logged in with entity id 17481 at ([world]-1222.679366353366, 60.0, 184.69999998807907)
+[16:35:04] [Server thread/INFO]: Dominik has made the advancement [Not Today, Thank You]
+[16:36:49] [Server thread/INFO]: Dominik was blown up by Creeper
+[16:36:54] [Server thread/INFO]: Dominik issued server command: /back
+[16:36:54] [Server thread/INFO]: [Essentials] Dominik was denied access to command.
+[16:36:55] [Async Chat Thread - #23/INFO]: <~Doge> NOOOOOOOOOOOOOOOOO
+[16:37:19] [Async Chat Thread - #23/INFO]: <Dominik> i was right there
+[16:37:48] [Server thread/INFO]: MasonJarZ lost connection: Disconnected
+[16:37:48] [Server thread/INFO]: MasonJarZ left the game
+[16:38:57] [User Authenticator #17/INFO]: UUID of player MasonJarZ is bffe0c31-8b05-35df-b26d-86bad58781fc
+[16:38:57] [Server thread/INFO]: MasonJarZ[/0:0:0:0:0:0:0:1%0:37282] logged in with entity id 18387 at ([world]-1101.2243900722503, 64.0, 270.9865419154687)
+[16:40:16] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[16:40:16] [Server thread/INFO]: Da_Doge_Dog left the game
+[16:40:26] [User Authenticator #18/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[16:40:26] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:51670] logged in with entity id 18632 at ([world]-1098.937624252549, 64.0, 271.29861385943036)
+[16:42:48] [Async Chat Thread - #24/INFO]: <Dominik> my stuff is gone
+[16:42:49] [Server thread/INFO]: MasonJarZ lost connection: Disconnected
+[16:42:49] [Server thread/INFO]: MasonJarZ left the game
+[16:43:08] [Async Chat Thread - #24/INFO]: <~Doge> ello
+[16:43:09] [Server thread/INFO]: Dominik lost connection: Disconnected
+[16:43:09] [Server thread/INFO]: Dominik left the game
+[16:43:53] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[16:43:53] [Server thread/INFO]: Da_Doge_Dog left the game
+[16:46:04] [User Authenticator #19/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[16:46:04] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:35998] logged in with entity id 19263 at ([world]-1103.421246888814, 61.0, 314.03962352090207)
+[16:49:48] [Server thread/INFO]: Dominik lost connection: Disconnected
+[16:49:48] [Server thread/INFO]: Dominik left the game
+[16:49:50] [User Authenticator #20/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[16:49:50] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:35104] logged in with entity id 19468 at ([world]-1123.900682534667, 71.0, 295.9212235224827)
+[16:50:31] [User Authenticator #20/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[16:50:32] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:47884] logged in with entity id 19502 at ([world]-1107.0440511761324, 64.0, 312.7259097862596)

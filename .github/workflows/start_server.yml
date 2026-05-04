@@ -1,0 +1,15 @@
+name: Scheduled Start
+on:
+  schedule:
+    # 10:30 AM EST is 14:30 UTC
+    - cron: '30 14 * * *' 
+  workflow_dispatch: 
+
+jobs:
+  start:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Resume Codespace
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh codespace resume -c super-guide-x5x79v7xwxj92v7gx
