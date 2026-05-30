@@ -1,0 +1,150 @@
+[00:07:14] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[00:07:14] [Server thread/INFO]: Loading properties
+[00:07:14] [Server thread/INFO]: Default game type: SURVIVAL
+[00:07:14] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[00:07:14] [Server thread/INFO]: Debug logging is disabled
+[00:07:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:07:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:07:14] [Server thread/INFO]: Generating keypair
+[00:07:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:07:15] [Server thread/INFO]: Using epoll channel type
+[00:07:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:07:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:07:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:07:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:07:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:07:15] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[00:07:15] [Server thread/INFO]: Preparing level "world"
+[00:07:15] [Server thread/INFO]: -------- World Settings For [world] --------
+[00:07:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:07:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:07:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:07:15] [Server thread/INFO]: Random Lighting Updates: false
+[00:07:15] [Server thread/INFO]: Structure Info Saving: true
+[00:07:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:07:15] [Server thread/INFO]: Mob Spawn Range: 4
+[00:07:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Max TNT Explosions: 100
+[00:07:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:07:15] [Server thread/INFO]: View Distance: 5
+[00:07:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:07:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:07:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:07:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:07:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:07:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:07:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:07:15] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[00:07:15] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:07:15] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:07:15] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:07:15] [Server thread/INFO]: Random Lighting Updates: false
+[00:07:15] [Server thread/INFO]: Structure Info Saving: true
+[00:07:15] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:07:15] [Server thread/INFO]: Mob Spawn Range: 4
+[00:07:15] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:07:15] [Server thread/INFO]: Max TNT Explosions: 100
+[00:07:15] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:07:15] [Server thread/INFO]: View Distance: 5
+[00:07:15] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:07:15] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:07:15] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:07:15] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:07:15] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:07:15] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:07:15] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:07:16] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[00:07:16] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[00:07:16] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[00:07:16] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[00:07:16] [Server thread/INFO]: Random Lighting Updates: false
+[00:07:16] [Server thread/INFO]: Structure Info Saving: true
+[00:07:16] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[00:07:16] [Server thread/INFO]: Mob Spawn Range: 4
+[00:07:16] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Cane Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Melon Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Vine Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[00:07:16] [Server thread/INFO]: Max TNT Explosions: 100
+[00:07:16] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[00:07:16] [Server thread/INFO]: View Distance: 5
+[00:07:16] [Server thread/INFO]: Item Despawn Rate: 6000
+[00:07:16] [Server thread/INFO]: Item Merge Radius: 2.5
+[00:07:16] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[00:07:16] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[00:07:16] [Server thread/INFO]: Experience Merge Radius: 3.0
+[00:07:16] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[00:07:16] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[00:07:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2891722621397471423)
+[00:07:17] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2891722621397471423)
+[00:07:17] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2997787703040366820)
+[00:07:17] [Server thread/INFO]: Done (2.529s)! For help, type "help" or "?"
+[00:07:17] [Server thread/INFO]: Timings Reset
+[00:07:42] [User Authenticator #1/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[00:07:42] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:51682] logged in with entity id 32 at ([world]-2523.300000011921, 11.0, 1158.300000011921)
+[00:08:18] [Server thread/INFO]: kl_ lost connection: Disconnected
+[00:08:18] [Server thread/INFO]: kl_ left the game
+[00:12:36] [User Authenticator #2/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[00:12:36] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:59406] logged in with entity id 110 at ([world]-2523.300000011921, 68.0, 1160.3500474104926)
+[00:12:42] [Server thread/INFO]: Dominik lost connection: Disconnected
+[00:12:42] [Server thread/INFO]: Dominik left the game
+[00:12:58] [User Authenticator #2/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[00:12:58] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:49496] logged in with entity id 176 at ([world]-2499.416809294263, 14.0, 1165.3965850764182)
+[00:13:19] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[00:13:19] [Server thread/INFO]: Da_Doge_Dog left the game
+[00:13:34] [User Authenticator #2/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[00:13:34] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:56592] logged in with entity id 247 at ([world]-2523.300000011921, 68.0, 1160.9745552419406)
+[00:13:52] [Server thread/INFO]: Dominik lost connection: Disconnected
+[00:13:52] [Server thread/INFO]: Dominik left the game
+[00:14:12] [User Authenticator #2/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[00:14:12] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:60170] logged in with entity id 326 at ([world]-2499.416809294263, 14.0, 1165.3965850764182)
+[00:14:17] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[00:14:17] [Server thread/INFO]: Da_Doge_Dog left the game
+[00:14:28] [User Authenticator #2/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[00:14:28] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:34036] logged in with entity id 403 at ([world]-2499.5514731397648, 75.0, 1161.318012428638)
+[00:17:40] [Server thread/INFO]: [Server] ttt
+[00:17:47] [Server thread/INFO]: [Server] hi twins
+[00:17:49] [Async Chat Thread - #0/INFO]: <Dominik> ello
+[00:17:55] [Server thread/INFO]: [Server] i think? i cant tell if both of u r on
+[00:18:15] [Server thread/INFO]: [Server] fuh this might shut off
+[00:18:20] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[00:18:22] [User Authenticator #3/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[00:18:22] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:44256] logged in with entity id 592 at ([world]-2499.416809294263, 14.0, 1165.3965850764182)
+[00:18:28] [Server thread/INFO]: [Server] but it might shut off idk
+[00:18:35] [Server thread/INFO]: [Server] if it does ill be back at 10
+[00:18:40] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
+[00:18:40] [Server thread/INFO]: Da_Doge_Dog left the game
+[00:18:40] [Server thread/INFO]: [Server] hi doge
+[00:18:43] [Server thread/INFO]: [Server] bruh
+[00:20:01] [User Authenticator #4/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[00:20:01] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:47170] logged in with entity id 650 at ([world]-2524.0104111681403, 6.0, 1160.512499988079)
+[00:21:20] [Server thread/INFO]: kl_ lost connection: Disconnected
+[00:21:20] [Server thread/INFO]: kl_ left the game
+[00:26:14] [Async Chat Thread - #1/INFO]: <Dominik> there are 3 cows in a ravine
+[00:26:22] [Async Chat Thread - #1/INFO]: <Dominik> nvm 4
+[00:28:05] [Server thread/INFO]: Dominik lost connection: Disconnected
+[00:28:05] [Server thread/INFO]: Dominik left the game
