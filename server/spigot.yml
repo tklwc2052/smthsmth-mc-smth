@@ -15,9 +15,6 @@ settings:
   debug: false
   save-user-cache-on-stop-only: false
   sample-count: 12
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
   bungeecord: false
   late-bind: false
   player-shuffle: 0
@@ -27,6 +24,9 @@ settings:
   moved-wrongly-threshold: 0.0625
   moved-too-quickly-multiplier: 10.0
   item-dirty-ticks: 20
+  timeout-time: 60
+  restart-on-crash: true
+  restart-script: ./start.sh
   netty-threads: 4
   attribute:
     maxHealth:
@@ -80,6 +80,18 @@ world-settings:
       hopper-check: 1
     hopper-amount: 1
     random-light-updates: false
+    mob-spawn-range: 4
+    growth:
+      cactus-modifier: 100
+      cane-modifier: 100
+      melon-modifier: 100
+      mushroom-modifier: 100
+      pumpkin-modifier: 100
+      sapling-modifier: 100
+      wheat-modifier: 100
+      netherwart-modifier: 100
+      vine-modifier: 100
+      cocoa-modifier: 100
     save-structure-info: true
     dragon-death-sound-radius: 0
     seed-village: 10387312
@@ -94,18 +106,6 @@ world-settings:
       swim-multiplier: 0.01
       sprint-multiplier: 0.1
       other-multiplier: 0.0
-    mob-spawn-range: 4
-    growth:
-      cactus-modifier: 100
-      cane-modifier: 100
-      melon-modifier: 100
-      mushroom-modifier: 100
-      pumpkin-modifier: 100
-      sapling-modifier: 100
-      wheat-modifier: 100
-      netherwart-modifier: 100
-      vine-modifier: 100
-      cocoa-modifier: 100
     max-tnt-per-tick: 100
     max-tick-time:
       tile: 50

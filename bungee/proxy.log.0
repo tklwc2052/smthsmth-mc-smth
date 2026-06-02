@@ -3064,3 +3064,895 @@
 00:21:20 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
 00:28:05 [INFO] [Dominik] -> UpstreamBridge has disconnected
 00:28:05 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+02:16:56 [INFO] Using mbed TLS based native cipher.
+02:16:56 [INFO] Using zlib based native compressor.
+02:16:56 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+02:16:57 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+02:16:57 [INFO] Epoll is working, utilising it!
+02:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+02:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+02:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+02:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+02:16:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+02:16:57 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+02:16:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:16:58 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>  This plugin wasn't tested to be 'working'
+02:16:58 [WARNING] :>  with ANY version of BungeeCord (and forks)
+02:16:58 [WARNING] :>  apart from the versions listed below:
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+02:16:58 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+02:16:58 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+02:16:58 [WARNING] :>  
+02:16:58 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+02:16:58 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+02:17:03 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+02:17:03 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+02:17:03 [WARNING] Forced host server pvp is not defined
+02:17:03 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+02:17:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+02:17:03 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+02:17:03 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+02:17:04 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+02:17:04 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+02:17:04 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+02:17:04 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/smthsmth-mc-smth/bungee/plugins/EaglercraftXBungee/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+02:17:04 [INFO] Listening on /127.0.0.1:25577
+02:17:47 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/smthsmth-mc-smth/bungee/IMG_1027.png
+02:17:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33820]: Connected via websocket
+02:17:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33820]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:17:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33820]: Logged in as 'dominik'
+02:17:48 [INFO] [dominik] -> UpstreamBridge has connected
+02:17:48 [INFO] [dominik] <-> ServerConnector [lobby] has connected
+02:17:55 [INFO] [dominik] -> UpstreamBridge has disconnected
+02:17:55 [INFO] [dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+02:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56938]: Connected via websocket
+02:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56938]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:18:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56938]: Logged in as 'Dominik'
+02:18:08 [INFO] [Dominik] -> UpstreamBridge has connected
+02:18:08 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:19:08 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:19:08 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+02:19:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40430]: Connected via websocket
+02:19:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40430]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:19:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40430]: Logged in as 'kl_'
+02:19:50 [INFO] [kl_] -> UpstreamBridge has connected
+02:19:50 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+02:21:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52322]: Connected via websocket
+02:21:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52322]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:21:00 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52322]: Logged in as 'Da_Doge_Dog'
+02:21:00 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+02:21:00 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+02:21:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37676]: Connected via websocket
+02:21:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37676]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:21:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37676]: Logged in as 'Dominik'
+02:21:10 [INFO] [Dominik] -> UpstreamBridge has connected
+02:21:10 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:21:12 [INFO] [kl_] -> UpstreamBridge has disconnected
+02:21:12 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+02:21:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35744]: Connected via websocket
+02:21:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35744]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:21:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35744]: Logged in as 'kl_'
+02:21:47 [INFO] [kl_] -> UpstreamBridge has connected
+02:21:47 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+02:21:57 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:21:57 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+02:22:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42624]: Connected via websocket
+02:22:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42624]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:22:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42624]: Logged in as 'Dominik'
+02:22:02 [INFO] [Dominik] -> UpstreamBridge has connected
+02:22:02 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:26:53 [INFO] [kl_] -> UpstreamBridge has disconnected
+02:26:53 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+02:27:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35988]: Connected via websocket
+02:27:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35988]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:27:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35988]: Logged in as 'psychosis'
+02:27:10 [INFO] [psychosis] -> UpstreamBridge has connected
+02:27:10 [INFO] [psychosis] <-> ServerConnector [lobby] has connected
+02:27:13 [INFO] [psychosis] -> UpstreamBridge has disconnected
+02:27:13 [INFO] [psychosis] <-> DownstreamBridge <-> [lobby] has disconnected
+02:27:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39312]: Connected via websocket
+02:27:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39312]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:27:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39312]: Logged in as 'Psychosis'
+02:27:35 [INFO] [Psychosis] -> UpstreamBridge has connected
+02:27:35 [INFO] [Psychosis] <-> ServerConnector [lobby] has connected
+02:27:47 [INFO] [Psychosis] -> UpstreamBridge has disconnected
+02:27:47 [INFO] [Psychosis] <-> DownstreamBridge <-> [lobby] has disconnected
+02:28:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35774]: Connected via websocket
+02:28:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35774]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:28:01 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35774]: Logged in as 'MasonJarZ'
+02:28:01 [INFO] [MasonJarZ] -> UpstreamBridge has connected
+02:28:01 [INFO] [MasonJarZ] <-> ServerConnector [lobby] has connected
+02:28:08 [INFO] [MasonJarZ] -> UpstreamBridge has disconnected
+02:28:08 [INFO] [MasonJarZ] <-> DownstreamBridge <-> [lobby] has disconnected
+02:28:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37790]: Connected via websocket
+02:28:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37790]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:28:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37790]: Logged in as 'kl_'
+02:28:27 [INFO] [kl_] -> UpstreamBridge has connected
+02:28:27 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+02:30:39 [INFO] [kl_] -> UpstreamBridge has disconnected
+02:30:39 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+02:30:46 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+02:30:46 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+02:31:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51644]: Connected via websocket
+02:31:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51644]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:31:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51644]: Logged in as 'Da_Doge_Dog'
+02:31:02 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+02:31:02 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+02:31:08 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+02:31:08 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+02:31:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33320]: Connected via websocket
+02:31:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33320]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:31:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33320]: Logged in as 'kl_'
+02:31:16 [INFO] [kl_] -> UpstreamBridge has connected
+02:31:16 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+02:31:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37428]: Connected via websocket
+02:31:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37428]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:31:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37428]: Logged in as 'Da_Doge_Dog'
+02:31:24 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+02:31:24 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+02:31:38 [INFO] [kl_] -> UpstreamBridge has disconnected
+02:31:38 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:14:41 [INFO] Using mbed TLS based native cipher.
+00:14:41 [INFO] Using zlib based native compressor.
+00:14:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+00:14:41 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+00:14:41 [INFO] Epoll is working, utilising it!
+00:14:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+00:14:41 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:41 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>  This plugin wasn't tested to be 'working'
+00:14:41 [WARNING] :>  with ANY version of BungeeCord (and forks)
+00:14:41 [WARNING] :>  apart from the versions listed below:
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+00:14:41 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+00:14:41 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+00:14:41 [WARNING] :>  
+00:14:41 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+00:14:42 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+00:14:44 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+00:14:44 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+00:14:44 [WARNING] Forced host server pvp is not defined
+00:14:44 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+00:14:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+00:14:44 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+00:14:44 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+00:14:44 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+00:14:44 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+00:14:44 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+00:14:44 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/smthsmth-mc-smth/bungee/plugins/EaglercraftXBungee/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+00:14:44 [INFO] Listening on /127.0.0.1:25577
+00:14:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58480]: Connected via websocket
+00:14:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58480]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:14:47 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58480]: Logged in as 'Dominik'
+00:14:47 [INFO] [Dominik] -> UpstreamBridge has connected
+00:14:47 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:15:04 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/smthsmth-mc-smth/bungee/IMG_1027.png
+00:15:06 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42158]: Connected via websocket
+00:15:06 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42158]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:15:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:42158]: Logged in as 'Da_Doge_Dog'
+00:15:07 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:15:07 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+00:15:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44998]: Connected via websocket
+00:15:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44998]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:15:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45008]: Connected via websocket
+00:15:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:45008]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:15:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58708]: Connected via websocket
+00:15:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58708]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:16:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50106]: Connected via websocket
+00:16:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:50106]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:16:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33622]: Connected via websocket
+00:16:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33622]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:16:18 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33622]: Logged in as 'kl_'
+00:16:18 [INFO] [kl_] -> UpstreamBridge has connected
+00:16:18 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:16:31 [INFO] [kl_] disconnected with: §fKicked by an operator.
+00:16:31 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:16:31 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:16:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49920]: Connected via websocket
+00:16:41 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49920]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:16:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57974]: Connected via websocket
+00:16:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57974]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:16:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57974]: Logged in as 'kl_'
+00:16:52 [INFO] [kl_] -> UpstreamBridge has connected
+00:16:52 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:16:52 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: Banned by an operator.
+00:16:52 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:16:52 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:17:03 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:17:03 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+00:17:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52856]: Connected via websocket
+00:17:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52856]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:10 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:52856]: Logged in as 'your_mom'
+00:17:10 [INFO] [your_mom] -> UpstreamBridge has connected
+00:17:10 [INFO] [your_mom] <-> ServerConnector [lobby] has connected
+00:17:17 [INFO] [Da_Doge_Dog] disconnected with: §fServer closed
+00:17:17 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:17:17 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+00:17:17 [INFO] [your_mom] disconnected with: §fServer closed
+00:17:17 [INFO] [your_mom] -> UpstreamBridge has disconnected
+00:17:17 [INFO] [your_mom] <-> DownstreamBridge <-> [lobby] has disconnected
+00:17:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38874]: Connected via websocket
+00:17:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38874]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38874]: Logged in as 'Da_Doge_Dog'
+00:17:24 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:17:24 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+00:17:24 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:17:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38234]: Connected via websocket
+00:17:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38234]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38234]: Logged in as 'kl_'
+00:17:46 [INFO] [kl_] -> UpstreamBridge has connected
+00:17:46 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:17:47 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: Banned by an operator.
+00:17:47 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:17:47 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:17:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38248]: Connected via websocket
+00:17:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38248]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38248]: Logged in as 'Dominik'
+00:17:50 [INFO] [Dominik] -> UpstreamBridge has connected
+00:17:50 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:17:50 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:17:50 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:17:50 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:17:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38250]: Connected via websocket
+00:17:50 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38250]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38250]: Logged in as 'Da_Doge_Dog'
+00:17:51 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:17:51 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+00:17:51 [INFO] [Da_Doge_Dog] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:17:51 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:17:51 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has disconnected
+00:17:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54728]: Connected via websocket
+00:17:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54728]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:17:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54728]: Logged in as 'Dominik'
+00:17:56 [INFO] [Dominik] -> UpstreamBridge has connected
+00:17:56 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:18:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54742]: Connected via websocket
+00:18:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54742]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:18:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54742]: Logged in as 'Da_Doge_Dog'
+00:18:02 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:18:02 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+00:18:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47952]: Connected via websocket
+00:18:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47952]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:18:37 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47952]: Logged in as 'kl_'
+00:18:37 [INFO] [kl_] -> UpstreamBridge has connected
+00:18:37 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:22:22 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:22:22 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Connected via websocket
+00:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:22:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Logged in as 'ilikespacedotcom'
+00:22:33 [INFO] [ilikespacedotcom] -> UpstreamBridge has connected
+00:22:33 [INFO] [ilikespacedotcom] <-> ServerConnector [lobby] has connected
+00:23:18 [INFO] [ilikespacedotcom] -> UpstreamBridge has disconnected
+00:23:18 [INFO] [ilikespacedotcom] <-> DownstreamBridge <-> [lobby] has disconnected
+00:23:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55230]: Connected via websocket
+00:23:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55230]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:23:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55230]: Logged in as 'ilikespacedotcom'
+00:23:20 [INFO] [ilikespacedotcom] -> UpstreamBridge has connected
+00:23:20 [INFO] [ilikespacedotcom] <-> ServerConnector [lobby] has connected
+00:23:32 [INFO] [ilikespacedotcom] -> UpstreamBridge has disconnected
+00:23:32 [INFO] [ilikespacedotcom] <-> DownstreamBridge <-> [lobby] has disconnected
+00:23:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40240]: Connected via websocket
+00:23:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40240]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:23:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40240]: Logged in as 'ilikespacedotco'
+00:23:39 [INFO] [ilikespacedotco] -> UpstreamBridge has connected
+00:23:39 [INFO] [ilikespacedotco] <-> ServerConnector [lobby] has connected
+00:27:03 [INFO] [Dominik] disconnected with: §fserver§f §fis§f §frestarting
+00:27:03 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:27:03 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+00:27:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44638]: Connected via websocket
+00:27:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44638]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:27:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44638]: Logged in as 'Dominik'
+00:27:08 [INFO] [Dominik] -> UpstreamBridge has connected
+00:27:08 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:27:12 [INFO] [ilikespacedotco] -> UpstreamBridge has disconnected
+00:27:12 [INFO] [ilikespacedotco] <-> DownstreamBridge <-> [lobby] has disconnected
+00:27:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36776]: Connected via websocket
+00:27:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36776]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:27:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36776]: Logged in as 'kl_'
+00:27:20 [INFO] [kl_] -> UpstreamBridge has connected
+00:27:20 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:28:21 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:28:21 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:30:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57040]: Connected via websocket
+00:30:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57040]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:30:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57040]: Logged in as 'kl_'
+00:30:07 [INFO] [kl_] -> UpstreamBridge has connected
+00:30:07 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:35:28 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:35:28 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+00:37:01 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:37:01 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:37:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37430]: Connected via websocket
+00:37:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37430]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:37:33 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37430]: Logged in as 'kl_'
+00:37:33 [INFO] [kl_] -> UpstreamBridge has connected
+00:37:33 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:48:45 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:48:45 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:52:02 [INFO] [Dominik] disconnected with: §fServer closed
+00:52:02 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:52:02 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+00:52:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44252]: Connected via websocket
+00:52:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44252]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:52:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44252]: Logged in as 'Dominik'
+00:52:07 [INFO] [Dominik] -> UpstreamBridge has connected
+00:52:07 [INFO] [Dominik] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+00:52:07 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:52:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44292]: Connected via websocket
+00:52:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44292]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:52:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44292]: Logged in as 'Dominik'
+00:52:12 [INFO] [Dominik] -> UpstreamBridge has connected
+00:52:12 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:52:26 [INFO] [Dominik] disconnected with: §fKicked by an operator.
+00:52:26 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:52:26 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+00:52:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55222]: Connected via websocket
+00:52:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55222]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:52:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:55222]: Logged in as 'Dominik'
+00:52:30 [INFO] [Dominik] -> UpstreamBridge has connected
+00:52:30 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:23 [INFO] [Dominik] disconnected with: §fYou are banned from this server.
+00:53:23 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:23 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+00:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46440]: Connected via websocket
+00:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46440]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:28 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46440]: Logged in as 'Dominik'
+00:53:28 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:28 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:28 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: keeps joining while im trying to upgrade the server
+00:53:28 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:28 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46446]: Connected via websocket
+00:53:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46446]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46446]: Logged in as 'kl_'
+00:53:29 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:29 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:53:29 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:29 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:53:29 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:53:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46468]: Connected via websocket
+00:53:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46468]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46468]: Logged in as 'kl_'
+00:53:30 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:30 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:53:31 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:31 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:53:31 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:53:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46482]: Connected via websocket
+00:53:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46482]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46482]: Logged in as 'Dominik'
+00:53:31 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:31 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:31 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:31 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:31 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46516]: Connected via websocket
+00:53:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46516]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46530]: Connected via websocket
+00:53:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46530]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:34 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46516]: Logged in as 'kl_'
+00:53:34 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:34 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:53:34 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:34 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:53:34 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:53:35 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46530]: Logged in as 'Dominik'
+00:53:35 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:35 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:35 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:35 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:35 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35438]: Connected via websocket
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35438]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35438]: Logged in as 'kl_'
+00:53:38 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:38 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:53:38 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:38 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:53:38 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35446]: Connected via websocket
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35446]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:38 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35446]: Logged in as 'Dominik'
+00:53:38 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:38 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:38 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:38 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:38 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51828]: Connected via websocket
+00:53:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51828]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:45 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51828]: Logged in as 'Dominik'
+00:53:45 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:46 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:46 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: keeps joining while im trying to upgrade the server
+00:53:46 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:46 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51840]: Connected via websocket
+00:53:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51840]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:49 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51840]: Logged in as 'Dominik'
+00:53:49 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:49 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:49 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:49 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:49 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51850]: Connected via websocket
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51850]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51850]: Logged in as 'kl_'
+00:53:51 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:51 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:53:51 [INFO] [kl_] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:51 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:53:51 [INFO] [kl_] <-> ServerConnector [lobby] has disconnected
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51870]: Connected via websocket
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51870]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51870]: Logged in as 'Dominik'
+00:53:51 [INFO] [Dominik] -> UpstreamBridge has connected
+00:53:51 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:53:51 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fConnection throttled! Please wait before reconnecting.
+00:53:52 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:53:52 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:53:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40126]: Connected via websocket
+00:53:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40126]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:53:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40126]: Logged in as 'kl_'
+00:53:56 [INFO] [kl_] -> UpstreamBridge has connected
+00:53:56 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+00:54:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53190]: Connected via websocket
+00:54:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53190]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:54:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53190]: Logged in as 'Dominik'
+00:54:11 [INFO] [Dominik] -> UpstreamBridge has connected
+00:54:11 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+00:54:11 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: keeps joining while im trying to upgrade the server
+00:54:11 [INFO] [Dominik] -> UpstreamBridge has disconnected
+00:54:11 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+00:54:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36208]: Connected via websocket
+00:54:23 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36208]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:54:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46238]: Connected via websocket
+00:54:39 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46238]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:54:40 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46238]: Logged in as 'Da_Doge_Dog'
+00:54:40 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:54:40 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+00:54:46 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:54:46 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+00:55:03 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33146]: Connected via websocket
+00:55:04 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33146]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:55:04 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33146]: Logged in as 'Da_Doge_Dog'
+00:55:04 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+00:55:04 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+00:55:28 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+00:55:28 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+00:55:58 [INFO] [kl_] -> UpstreamBridge has disconnected
+00:55:58 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+00:57:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56062]: Connected via websocket
+00:57:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56062]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+00:57:21 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56062]: Logged in as 'kl_'
+00:57:21 [INFO] [kl_] -> UpstreamBridge has connected
+00:57:21 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+01:03:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34870]: Connected via websocket
+01:03:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34870]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:03:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:34870]: Logged in as 'Da_Doge_Dog'
+01:03:56 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:03:56 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+01:04:00 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:04:00 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+01:04:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49304]: Connected via websocket
+01:04:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49304]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:04:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:49304]: Logged in as 'Dominik'
+01:04:12 [INFO] [Dominik] -> UpstreamBridge has connected
+01:04:12 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+01:07:39 [INFO] [Dominik] -> UpstreamBridge has disconnected
+01:07:39 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+01:07:41 [INFO] [kl_] -> UpstreamBridge has disconnected
+01:07:41 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:07:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44084]: Connected via websocket
+01:07:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44084]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:07:53 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44084]: Logged in as 'kl_'
+01:07:53 [INFO] [kl_] -> UpstreamBridge has connected
+01:07:53 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+01:10:45 [INFO] [kl_] -> UpstreamBridge has disconnected
+01:10:45 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:20:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57510]: Connected via websocket
+01:20:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57510]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:20:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:57510]: Logged in as 'Da_Doge_Dog'
+01:20:17 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:20:17 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:20:17 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:21:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Connected via websocket
+01:21:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:21:13 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38864]: Logged in as 'Da_Doge_Dog'
+01:21:13 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:21:13 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:21:13 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:22:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58730]: Connected via websocket
+01:22:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58730]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:22:51 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58730]: Logged in as 'Da_Doge_Dog'
+01:22:51 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:22:51 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:22:51 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:23:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35010]: Connected via websocket
+01:23:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35010]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:23:48 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35010]: Logged in as 'Da_Doge_Dog'
+01:23:48 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:23:48 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:23:48 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:23:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35024]: Connected via websocket
+01:23:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35024]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:23:55 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:35024]: Logged in as 'Da_Doge_Dog'
+01:23:55 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:23:55 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:23:55 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:23:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37736]: Connected via websocket
+01:23:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37736]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:23:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37736]: Logged in as 'Da_Doge_Dog'
+01:23:57 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:23:57 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:23:57 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:23:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Connected via websocket
+01:23:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:23:59 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37752]: Logged in as 'Da_Doge_Dog'
+01:23:59 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:23:59 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:23:59 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:24:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37756]: Connected via websocket
+01:24:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37756]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:24:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37756]: Logged in as 'Da_Doge_Dog'
+01:24:02 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:24:02 [INFO] [Da_Doge_Dog] disconnected with: §f§cCould not connect to a default or fallback server. Incorrectly configured address/port/firewall? io.netty.channel.AbstractChannel$AnnotatedConnectException
+01:24:02 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:26:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40878]: Connected via websocket
+01:26:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40878]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:26:20 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40878]: Logged in as 'Da_Doge_Dog'
+01:26:20 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+01:26:20 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+01:26:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40892]: Connected via websocket
+01:26:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40892]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:26:24 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40892]: Logged in as 'kl_'
+01:26:24 [INFO] [kl_] -> UpstreamBridge has connected
+01:26:24 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+01:27:27 [INFO] [kl_] -> UpstreamBridge has disconnected
+01:27:27 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:27:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51974]: Connected via websocket
+01:27:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51974]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:27:44 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:51974]: Logged in as 'kl_'
+01:27:44 [INFO] [kl_] -> UpstreamBridge has connected
+01:27:44 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+01:30:19 [INFO] [kl_] -> UpstreamBridge has disconnected
+01:30:19 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+01:32:55 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+01:32:55 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+01:55:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46452]: Connected via websocket
+01:55:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46452]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+01:55:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:46452]: Logged in as 'Dominik'
+01:55:32 [INFO] [Dominik] -> UpstreamBridge has connected
+01:55:32 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:00:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53562]: Connected via websocket
+02:00:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53562]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:00:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53562]: Logged in as 'kl_'
+02:00:30 [INFO] [kl_] -> UpstreamBridge has connected
+02:00:30 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+02:00:37 [INFO] [kl_] -> UpstreamBridge has disconnected
+02:00:37 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+02:06:23 [INFO] [Dominik] disconnected with: §fYou are banned from this server.
+02:06:23 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:06:23 [INFO] [Dominik] <-> DownstreamBridge <-> [lobby] has disconnected
+02:06:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33950]: Connected via websocket
+02:06:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33950]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:06:32 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33950]: Logged in as 'Dominik'
+02:06:32 [INFO] [Dominik] -> UpstreamBridge has connected
+02:06:32 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:06:32 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: 10d stfu bruh
+02:06:32 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:06:32 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+02:06:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43122]: Connected via websocket
+02:06:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43122]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:06:43 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43122]: Logged in as 'Dominikv2'
+02:06:43 [INFO] [Dominikv2] -> UpstreamBridge has connected
+02:06:43 [INFO] [Dominikv2] <-> ServerConnector [lobby] has connected
+02:09:13 [INFO] [Dominikv2] disconnected with: §fYou are banned from this server.
+02:09:13 [INFO] [Dominikv2] -> UpstreamBridge has disconnected
+02:09:13 [INFO] [Dominikv2] <-> DownstreamBridge <-> [lobby] has disconnected
+02:09:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47640]: Connected via websocket
+02:09:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47640]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:09:19 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:47640]: Logged in as 'Dominikv2'
+02:09:19 [INFO] [Dominikv2] -> UpstreamBridge has connected
+02:09:19 [INFO] [Dominikv2] <-> ServerConnector [lobby] has connected
+02:09:19 [INFO] [Dominikv2] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: ban evading
+02:09:19 [INFO] [Dominikv2] -> UpstreamBridge has disconnected
+02:09:19 [INFO] [Dominikv2] <-> ServerConnector [lobby] has disconnected
+02:09:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44480]: Connected via websocket
+02:09:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44480]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:09:29 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44480]: Logged in as 'Dominikv3'
+02:09:29 [INFO] [Dominikv3] -> UpstreamBridge has connected
+02:09:29 [INFO] [Dominikv3] <-> ServerConnector [lobby] has connected
+02:09:45 [INFO] [Dominikv3] disconnected with: §fYou have been IP banned.
+02:09:45 [INFO] [Dominikv3] -> UpstreamBridge has disconnected
+02:09:45 [INFO] [Dominikv3] <-> DownstreamBridge <-> [lobby] has disconnected
+02:09:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54652]: Connected via websocket
+02:09:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54652]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:09:52 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:54652]: Logged in as 'Dominikv3'
+02:09:52 [INFO] [Dominikv3] -> UpstreamBridge has connected
+02:09:52 [INFO] [Dominikv3] <-> ServerConnector [lobby] has connected
+02:09:52 [INFO] [Dominikv3] disconnected with: §f§cKicked whilst connecting to lobby: §fYour IP address is banned from this server!
+Reason: bruh stop
+02:09:52 [INFO] [Dominikv3] -> UpstreamBridge has disconnected
+02:09:52 [INFO] [Dominikv3] <-> ServerConnector [lobby] has disconnected
+02:10:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36592]: Connected via websocket
+02:10:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36592]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:10:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:36592]: Logged in as 'Dominikv4'
+02:10:02 [INFO] [Dominikv4] -> UpstreamBridge has connected
+02:10:02 [INFO] [Dominikv4] <-> ServerConnector [lobby] has connected
+02:10:02 [INFO] [Dominikv4] disconnected with: §f§cKicked whilst connecting to lobby: §fYour IP address is banned from this server!
+Reason: bruh stop
+02:10:02 [INFO] [Dominikv4] -> UpstreamBridge has disconnected
+02:10:02 [INFO] [Dominikv4] <-> ServerConnector [lobby] has disconnected
+02:12:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53180]: Connected via websocket
+02:12:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53180]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:12:02 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53180]: Logged in as 'Dominik'
+02:12:02 [INFO] [Dominik] -> UpstreamBridge has connected
+02:12:02 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:12:02 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: 10d stfu bruh
+02:12:02 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:12:02 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+02:12:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53990]: Connected via websocket
+02:12:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53990]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:12:15 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53990]: Logged in as 'Dominikv3'
+02:12:15 [INFO] [Dominikv3] -> UpstreamBridge has connected
+02:12:15 [INFO] [Dominikv3] <-> ServerConnector [lobby] has connected
+02:12:15 [INFO] [Dominikv3] disconnected with: §f§cKicked whilst connecting to lobby: §fYour IP address is banned from this server!
+Reason: bruh stop
+02:12:15 [INFO] [Dominikv3] -> UpstreamBridge has disconnected
+02:12:15 [INFO] [Dominikv3] <-> ServerConnector [lobby] has disconnected
+02:18:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44706]: Connected via websocket
+02:18:30 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44706]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+02:18:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:44706]: Logged in as 'Dominik'
+02:18:31 [INFO] [Dominik] -> UpstreamBridge has connected
+02:18:31 [INFO] [Dominik] <-> ServerConnector [lobby] has connected
+02:18:31 [INFO] [Dominik] disconnected with: §f§cKicked whilst connecting to lobby: §fYou are banned from this server!
+Reason: 10d stfu bruh
+02:18:31 [INFO] [Dominik] -> UpstreamBridge has disconnected
+02:18:31 [INFO] [Dominik] <-> ServerConnector [lobby] has disconnected
+11:00:57 [INFO] Using mbed TLS based native cipher.
+11:00:57 [INFO] Using zlib based native compressor.
+11:00:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+11:00:57 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+11:00:57 [INFO] Epoll is working, utilising it!
+11:00:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+11:00:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:00:57 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>  This plugin wasn't tested to be 'working'
+11:00:57 [WARNING] :>  with ANY version of BungeeCord (and forks)
+11:00:57 [WARNING] :>  apart from the versions listed below:
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+11:00:57 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+11:00:57 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+11:00:57 [WARNING] :>  
+11:00:57 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+11:00:58 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+11:01:00 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+11:01:00 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+11:01:00 [WARNING] Forced host server pvp is not defined
+11:01:00 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+11:01:00 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+11:01:00 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+11:01:00 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+11:01:01 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+11:01:01 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+11:01:01 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+11:01:01 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/smthsmth-mc-smth/bungee/plugins/EaglercraftXBungee/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+11:01:01 [INFO] Listening on /127.0.0.1:25577
+11:04:08 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/smthsmth-mc-smth/bungee/IMG_1027.png
+11:04:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60084]: Connected via websocket
+11:04:11 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60084]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+11:04:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60084]: Logged in as 'kl_'
+11:04:12 [INFO] [kl_] -> UpstreamBridge has connected
+11:04:12 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+11:12:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56368]: Connected via websocket
+11:12:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56368]: Origin header is https://173853310-atari-embeds.googleusercontent.com
+11:12:08 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:56368]: Logged in as 'New_WAR'
+11:12:08 [INFO] [New_WAR] -> UpstreamBridge has connected
+11:12:08 [INFO] [New_WAR] <-> ServerConnector [lobby] has connected
+11:16:22 [INFO] [kl_] -> UpstreamBridge has disconnected
+11:16:22 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+11:17:32 [INFO] [New_WAR] -> UpstreamBridge has disconnected
+11:17:32 [INFO] [New_WAR] <-> DownstreamBridge <-> [lobby] has disconnected
+11:20:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39008]: Connected via websocket
+11:20:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39008]: Origin header is https://173853310-atari-embeds.googleusercontent.com
+11:20:27 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39008]: Logged in as 'New_WAR'
+11:20:27 [INFO] [New_WAR] -> UpstreamBridge has connected
+11:20:27 [INFO] [New_WAR] <-> ServerConnector [lobby] has connected
+11:28:46 [INFO] [New_WAR] -> UpstreamBridge has disconnected
+11:28:46 [INFO] [New_WAR] <-> DownstreamBridge <-> [lobby] has disconnected
+11:51:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40192]: Connected via websocket
+11:51:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40192]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+11:51:17 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:40192]: Logged in as 'Da_Doge_Dog'
+11:51:17 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+11:51:17 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+11:58:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37290]: Connected via websocket
+11:58:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37290]: Origin header is https://173853310-atari-embeds.googleusercontent.com
+11:58:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:37290]: Logged in as 'New_WAR'
+11:58:46 [INFO] [New_WAR] -> UpstreamBridge has connected
+11:58:46 [INFO] [New_WAR] <-> ServerConnector [lobby] has connected
+12:13:43 [INFO] Using mbed TLS based native cipher.
+12:13:43 [INFO] Using zlib based native compressor.
+12:13:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.21-R0.1-SNAPSHOT:7340f1a:1889
+12:13:43 [INFO] Not on Windows, attempting to use enhanced EpollEventLoop
+12:13:43 [INFO] Epoll is working, utilising it!
+12:13:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:13:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:43 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>      EAGLERCRAFTXBUNGEE WARNING:
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>  This plugin wasn't tested to be 'working'
+12:13:43 [WARNING] :>  with ANY version of BungeeCord (and forks)
+12:13:43 [WARNING] :>  apart from the versions listed below:
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>  - BungeeCord: 1.21-R0.1-SNAPSHOT:0aa2871:1893
+12:13:43 [WARNING] :>  - https://ci.md-5.net/job/BungeeCord/1893/artifact/bootstrap/target/BungeeCord.jar
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>  - Waterfall: 1.21-R0.1-SNAPSHOT:9ab9e2b:582
+12:13:43 [WARNING] :>  - https://api.papermc.io/v2/projects/waterfall/versions/1.21/builds/582/downloads/waterfall-1.21-582.jar
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>  This is not a Bukkit/Spigot plugin!
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>  Use "-Deaglerxbungee.stfu=true" to hide
+12:13:43 [WARNING] :>  
+12:13:43 [WARNING] :>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>:>
+12:13:43 [INFO] [EaglercraftXBungee] Loading vanilla profile: lax1dude
+12:13:44 [INFO] [EaglercraftXBungee] Loaded vanilla profile: lax1dude
+12:13:44 [INFO] Loaded plugin EaglercraftXBungee version 1.3.6 by lax1dude
+12:13:44 [WARNING] Forced host server pvp is not defined
+12:13:44 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:13:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.21-R0.1-SNAPSHOT:7340f1a:1889 by SpigotMC
+12:13:44 [SEVERE] [EaglercraftXBungee] Online mode is set to false! Authentication system has been disabled
+12:13:44 [INFO] [EaglercraftXBungee] Eaglercraft is listening on: /0.0.0.0:8081
+12:13:44 [INFO] [EaglercraftXBungee] Connected to database: jdbc:sqlite:eaglercraft_skins_cache.db
+12:13:44 [INFO] [EaglercraftXBungee] Voice chat disabled, add "allow_voice: true" to your listeners to enable
+12:13:44 [INFO] Enabled plugin EaglercraftXBungee version 1.3.6 by lax1dude
+12:13:44 [INFO] [EaglercraftXBungee] Loaded certificate: /workspaces/smthsmth-mc-smth/bungee/plugins/EaglercraftXBungee/eagcert/$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+12:13:44 [INFO] Listening on /127.0.0.1:25577
+12:15:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Connected via websocket
+12:15:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:15:07 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:39660]: Logged in as 'kl_'
+12:15:07 [INFO] [kl_] -> UpstreamBridge has connected
+12:15:07 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+12:15:56 [WARNING] [EaglercraftXBungee] Server icon is not a file: /workspaces/smthsmth-mc-smth/bungee/IMG_1027.png
+12:16:06 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43380]: Connected via websocket
+12:16:06 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43380]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:16:06 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:43380]: Logged in as 'Da_Doge_Dog'
+12:16:06 [INFO] [Da_Doge_Dog] -> UpstreamBridge has connected
+12:16:06 [INFO] [Da_Doge_Dog] <-> ServerConnector [lobby] has connected
+12:19:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53496]: Connected via websocket
+12:19:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53496]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:19:16 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:53496]: Logged in as 'MasonJarZ'
+12:19:16 [INFO] [MasonJarZ] -> UpstreamBridge has connected
+12:19:16 [INFO] [MasonJarZ] <-> ServerConnector [lobby] has connected
+12:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60474]: Connected via websocket
+12:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60474]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:21:31 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:60474]: Logged in as 'Lucky_Duck_'
+12:21:31 [INFO] [Lucky_Duck_] -> UpstreamBridge has connected
+12:21:31 [INFO] [Lucky_Duck_] <-> ServerConnector [lobby] has connected
+12:21:35 [INFO] [Lucky_Duck_] -> UpstreamBridge has disconnected
+12:21:35 [INFO] [Lucky_Duck_] <-> DownstreamBridge <-> [lobby] has disconnected
+12:21:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33228]: Connected via websocket
+12:21:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33228]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:21:46 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:33228]: Logged in as 'Lucky_Duck_'
+12:21:46 [INFO] [Lucky_Duck_] -> UpstreamBridge has connected
+12:21:46 [INFO] [Lucky_Duck_] <-> ServerConnector [lobby] has connected
+12:22:10 [INFO] [kl_] -> UpstreamBridge has disconnected
+12:22:10 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+12:23:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38780]: Connected via websocket
+12:23:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38780]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:23:12 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:38780]: Logged in as 'kl_'
+12:23:12 [INFO] [kl_] -> UpstreamBridge has connected
+12:23:12 [INFO] [kl_] <-> ServerConnector [lobby] has connected
+12:25:57 [INFO] [Lucky_Duck_] -> UpstreamBridge has disconnected
+12:25:57 [INFO] [Lucky_Duck_] <-> DownstreamBridge <-> [lobby] has disconnected
+12:28:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58310]: Connected via websocket
+12:28:56 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58310]: Origin header is https://n-6zj73sbsr26c2wtvedwpxs6yjez4yaa2odunqqy-0lu-script.googleusercontent.com
+12:28:57 [INFO] [EaglercraftXBungee] [/0:0:0:0:0:0:0:1:58310]: Logged in as 'Psychosis'
+12:28:57 [INFO] [Psychosis] -> UpstreamBridge has connected
+12:28:57 [INFO] [Psychosis] <-> ServerConnector [lobby] has connected
+12:31:32 [INFO] [Da_Doge_Dog] -> UpstreamBridge has disconnected
+12:31:32 [INFO] [Da_Doge_Dog] <-> DownstreamBridge <-> [lobby] has disconnected
+12:31:56 [INFO] [kl_] -> UpstreamBridge has disconnected
+12:31:56 [INFO] [kl_] <-> DownstreamBridge <-> [lobby] has disconnected
+12:33:05 [INFO] [MasonJarZ] disconnected with: §fServer closed
+12:33:05 [INFO] [Psychosis] disconnected with: §fServer closed
+12:33:05 [INFO] [MasonJarZ] -> UpstreamBridge has disconnected
+12:33:05 [INFO] [MasonJarZ] <-> DownstreamBridge <-> [lobby] has disconnected
+12:33:05 [INFO] [Psychosis] -> UpstreamBridge has disconnected
+12:33:05 [INFO] [Psychosis] <-> DownstreamBridge <-> [lobby] has disconnected
