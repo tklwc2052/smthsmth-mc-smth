@@ -1,513 +1,586 @@
-[01:24:02] [Server thread/INFO]: Starting minecraft server version 1.12.2
-[01:24:02] [Server thread/INFO]: Loading properties
-[01:24:02] [Server thread/INFO]: Default game type: SURVIVAL
-[01:24:02] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
-[01:24:02] [Server thread/INFO]: Debug logging is disabled
-[01:24:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:24:02] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:24:03] [Server thread/INFO]: Generating keypair
-[01:24:03] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:24:03] [Server thread/INFO]: Using epoll channel type
-[01:24:03] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[01:24:03] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.1
-[01:24:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:24:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:24:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:24:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:24:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:24:03] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[01:24:03] [Server thread/INFO]: Preparing level "world"
-[01:24:03] [Server thread/INFO]: -------- World Settings For [world] --------
-[01:24:03] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[01:24:03] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:24:03] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:24:03] [Server thread/INFO]: Random Lighting Updates: false
-[01:24:03] [Server thread/INFO]: Mob Spawn Range: 4
-[01:24:03] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:24:03] [Server thread/INFO]: Structure Info Saving: true
-[01:24:03] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:24:03] [Server thread/INFO]: Max TNT Explosions: 100
-[01:24:03] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:24:03] [Server thread/INFO]: View Distance: 5
-[01:24:03] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:24:03] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:24:03] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:24:03] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:24:03] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:24:03] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:24:03] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:24:04] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[01:24:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[01:24:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:24:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:24:04] [Server thread/INFO]: Random Lighting Updates: false
-[01:24:04] [Server thread/INFO]: Mob Spawn Range: 4
-[01:24:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Structure Info Saving: true
-[01:24:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:24:04] [Server thread/INFO]: Max TNT Explosions: 100
-[01:24:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:24:04] [Server thread/INFO]: View Distance: 5
-[01:24:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:24:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:24:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:24:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:24:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:24:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:24:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:24:04] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[01:24:04] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
-[01:24:04] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01:24:04] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01:24:04] [Server thread/INFO]: Random Lighting Updates: false
-[01:24:04] [Server thread/INFO]: Mob Spawn Range: 4
-[01:24:04] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Cane Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Melon Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Vine Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[01:24:04] [Server thread/INFO]: Structure Info Saving: true
-[01:24:04] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
-[01:24:04] [Server thread/INFO]: Max TNT Explosions: 100
-[01:24:04] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01:24:04] [Server thread/INFO]: View Distance: 5
-[01:24:04] [Server thread/INFO]: Item Despawn Rate: 6000
-[01:24:04] [Server thread/INFO]: Item Merge Radius: 2.5
-[01:24:04] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[01:24:04] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01:24:04] [Server thread/INFO]: Experience Merge Radius: 3.0
-[01:24:04] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[01:24:04] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[01:24:04] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4323188558834650696)
-[01:24:05] [Server thread/INFO]: Preparing spawn area: 12%
-[01:24:05] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4323188558834650696)
-[01:24:05] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4323188558834650696)
-[01:24:05] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
-[01:24:05] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[01:24:05] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[01:24:05] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[01:24:05] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[01:24:06] [Server thread/INFO]: Done (2.611s)! For help, type "help" or "?"
-[01:24:06] [Server thread/INFO]: Timings Reset
-[01:37:16] [User Authenticator #1/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
-[01:37:17] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:55346] logged in with entity id 68 at ([world]-108.0, 64.0, 256.0)
-[01:37:45] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> ello?
-[01:38:18] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
-[01:38:18] [Server thread/INFO]: Da_Doge_Dog left the game
-[01:40:02] [User Authenticator #2/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
-[01:40:02] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:39906] logged in with entity id 223 at ([world]-108.0, 64.0, 256.0)
-[01:40:22] [User Authenticator #2/INFO]: UUID of player Glitched is 6d4d778b-97dc-38bb-a9ef-746a1be18ce9
-[01:40:22] [Server thread/INFO]: Glitched[/0:0:0:0:0:0:0:1%0:41050] logged in with entity id 459 at ([world]-108.0, 64.0, 256.0)
-[01:40:47] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> ello
-[01:40:57] [Async Chat Thread - #1/INFO]: <Glitched> ello
-[01:41:22] [User Authenticator #3/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
-[01:41:22] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:48108] logged in with entity id 742 at ([world]-108.0, 64.0, 256.0)
-[01:41:37] [Async Chat Thread - #1/INFO]: <kl_> hi twins
-[01:41:40] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> lol i just asked if u were getting on lol
-[01:42:08] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> can u like
-[01:42:14] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> fainally tell me
-[01:42:19] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> were u guys are
-[01:42:22] [Async Chat Thread - #1/INFO]: <kl_> we moved
-[01:42:24] [Async Chat Thread - #1/INFO]: <kl_> go to nether
-[01:42:29] [Async Chat Thread - #1/INFO]: <kl_> then go to the fort
-[01:42:30] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> vruh
-[01:42:34] [Async Chat Thread - #1/INFO]: <kl_> then go to the spawner
-[01:42:42] [Async Chat Thread - #1/INFO]: <kl_> but insted of turning rigght
-[01:42:44] [Async Chat Thread - #1/INFO]: <kl_> go left
-[01:42:53] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> can u like
-[01:42:54] [Async Chat Thread - #1/INFO]: <kl_> then follow the netherack to another portal
-[01:43:05] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> wait for me to pack my stuff first
-[01:43:12] [Async Chat Thread - #1/INFO]: <kl_> we are already here
-[01:43:16] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> o alr
-[01:44:44] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> alr coming
-[01:45:38] [Async Chat Thread - #2/INFO]: <kl_> dog
-[01:45:43] [Async Chat Thread - #2/INFO]: <kl_> wanna know what we should do
-[01:45:46] [Async Chat Thread - #2/INFO]: <kl_> before end
-[01:45:49] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> wut
-[01:45:51] [Async Chat Thread - #2/INFO]: <kl_> wither
-[01:45:57] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> alr bet
-[01:46:13] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> ow
-[01:46:20] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> stupid blaze
-[01:46:31] [Async Chat Thread - #2/INFO]: <kl_> where tf are you
-[01:46:34] [Async Chat Thread - #2/INFO]: <kl_> o i see u
-[01:46:39] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> where
-[01:46:43] [Async Chat Thread - #2/INFO]: <kl_> behind
-[01:46:46] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> o lol
-[01:46:48] [Async Chat Thread - #2/INFO]: <kl_> go that way
-[01:47:53] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> im here
-[01:48:20] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> holy carror empire
-[01:48:25] [Async Chat Thread - #3/INFO]: <kl_> lol
-[01:48:28] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> ello glitched
-[01:48:32] [Async Chat Thread - #3/INFO]: <Glitched> ello
-[01:48:41] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> where do i bulid
-[01:48:58] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> nvm
-[01:49:02] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> found a spot
-[01:51:46] [Async Chat Thread - #4/INFO]: <kl_> wait doge
-[01:51:52] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> wut
-[01:51:56] [Async Chat Thread - #4/INFO]: <kl_> come ovr here
-[01:52:25] [Async Chat Thread - #4/INFO]: <kl_> okay
-[01:52:29] [Async Chat Thread - #4/INFO]: <kl_> so i have a libarian
-[01:52:33] [Async Chat Thread - #4/INFO]: <kl_> a fletcher
-[01:52:34] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> ohhh w
-[01:52:35] [Async Chat Thread - #4/INFO]: <kl_> and a cleric
-[01:52:38] [Async Chat Thread - #4/INFO]: <kl_> all trapped
-[01:52:57] [Async Chat Thread - #4/INFO]: <kl_> also
-[01:52:59] [Async Chat Thread - #4/INFO]: <kl_> can u call
-[01:53:14] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> wit
-[01:53:16] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> wut
-[01:53:16] [Async Chat Thread - #4/INFO]: <kl_> can u call
-[01:53:21] [Async Chat Thread - #4/INFO]: <kl_> like phone
-[01:53:21] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> no :<
-[01:53:23] [Async Chat Thread - #4/INFO]: <kl_> fhu
-[01:53:25] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> also no
-[01:53:46] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> ooo
-[01:55:14] [Async Chat Thread - #5/INFO]: <kl_> jere
-[01:55:26] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> YOOOO
-[01:55:31] [Async Chat Thread - #5/INFO]: <kl_> mhm
-[01:55:33] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> W
-[01:56:13] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> this is so fun to do
-[01:57:03] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> vruh
-[01:57:12] [Async Chat Thread - #5/INFO]: <kl_> ?
-[01:57:16] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> now i have 40 secs of poisen
-[01:57:18] [Async Chat Thread - #5/INFO]: <kl_> o
-[02:06:41] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> i am the Loraxs brother
-[02:06:49] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> i speak for the axe!
-[02:07:08] [Async Chat Thread - #6/INFO]: <kl_> and i am the ball remover
-[02:07:15] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> ._.
-[02:07:20] [Async Chat Thread - #6/INFO]: <kl_> i speak for all the ones who have hated apon you
-[02:09:01] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> may i ask a question
-[02:09:09] [Async Chat Thread - #7/INFO]: <kl_> wut
-[02:09:16] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> out of every crop
-[02:09:18] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> wheet
-[02:09:22] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> patatos
-[02:09:26] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> even watermellon
-[02:09:27] [Async Chat Thread - #7/INFO]: <kl_> you havent seen
-[02:09:30] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> why
-[02:09:31] [Async Chat Thread - #7/INFO]: <kl_> what i once was
-[02:09:32] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> just
-[02:09:34] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> why
-[02:09:36] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> carrots
-[02:09:46] [Async Chat Thread - #7/INFO]: <kl_> you havent seen
-[02:09:50] [Async Chat Thread - #7/INFO]: <kl_> what we once were
-[02:09:54] [Async Chat Thread - #7/INFO]: <kl_> cherd
-[02:09:56] [Async Chat Thread - #7/INFO]: <kl_> kl_
-[02:10:01] [Async Chat Thread - #7/INFO]: <kl_> newwar
-[02:10:04] [Async Chat Thread - #7/INFO]: <kl_> newar
-[02:10:18] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> ok
-[02:14:08] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> cobble?
-[02:14:16] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> u sir
-[02:14:23] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> u have cobble
-[02:14:26] [Async Chat Thread - #8/INFO]: <Glitched> I have a ton a the old bases
-[02:14:34] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> o
-[02:14:59] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> eh ill just mine for a little
-[02:15:11] [Async Chat Thread - #8/INFO]: <kl_> i just gve you 2.5 stacks ._.
-[02:15:19] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> wait wut
-[02:16:09] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> ohhhh
-[02:16:11] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> ty
-[02:16:14] [Async Chat Thread - #8/INFO]: <Da_Doge_Dog> lol
-[02:17:25] [Async Chat Thread - #9/INFO]: <kl_> cant wait for newar to get on
-[02:18:08] [Async Chat Thread - #9/INFO]: <Da_Doge_Dog> ._.
-[02:18:14] [Async Chat Thread - #9/INFO]: <kl_> ?
-[02:18:25] [Async Chat Thread - #9/INFO]: <Da_Doge_Dog> just my floor costs almost 2 stacks of cobble
-[02:18:37] [Async Chat Thread - #9/INFO]: <kl_> are you making
-[02:18:42] [Async Chat Thread - #9/INFO]: <kl_> ur walls
-[02:18:44] [Async Chat Thread - #9/INFO]: <kl_> and floor
-[02:18:45] [Async Chat Thread - #9/INFO]: <Da_Doge_Dog> H O U S E
-[02:18:48] [Async Chat Thread - #9/INFO]: <kl_> out of cobble
-[02:19:55] [Async Chat Thread - #10/INFO]: <kl_> searching for a mob that dosent exsist
-[02:20:29] [Async Chat Thread - #10/INFO]: <Da_Doge_Dog> you watched (a searching for a world that doesnt exist)?
-[02:20:35] [Async Chat Thread - #10/INFO]: <kl_> most of it
-[02:20:37] [Async Chat Thread - #10/INFO]: <Da_Doge_Dog> W
-[02:20:44] [Async Chat Thread - #10/INFO]: <Glitched> I've seen both parts 1 and 2
-[02:20:46] [Async Chat Thread - #10/INFO]: <Da_Doge_Dog> u think its good?
-[02:20:49] [Async Chat Thread - #10/INFO]: <kl_> ye
-[02:20:49] [Async Chat Thread - #10/INFO]: <Da_Doge_Dog> same
-[02:25:32] [Async Chat Thread - #11/INFO]: <kl_> eff 4?
-[02:25:34] [Async Chat Thread - #11/INFO]: <kl_> wwww
-[02:25:46] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> PFFFT
-[02:25:51] [Async Chat Thread - #11/INFO]: <kl_> shut up
-[02:25:55] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> lol
-[02:25:55] [Async Chat Thread - #11/INFO]: <kl_> its from a villager
-[02:25:59] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> oh
-[02:26:01] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> thats w
-[02:26:01] [Async Chat Thread - #11/INFO]: <kl_> by dfauly
-[02:26:56] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> kl
-[02:26:58] [Async Chat Thread - #11/INFO]: <kl_> wut
-[02:27:05] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> u cant beat me ykw?
-[02:27:16] [Async Chat Thread - #11/INFO]: <kl_> you say this why?
-[02:27:29] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> I hAvE a LeVeL 20 KinGdOM
-[02:28:10] [Async Chat Thread - #11/INFO]: <Da_Doge_Dog> (yk those mobile game adds lol)
-[02:28:14] [Async Chat Thread - #11/INFO]: <kl_> mhm
-[02:30:20] [Async Chat Thread - #12/INFO]: <kl_> 1068 560
-[02:30:27] [Async Chat Thread - #12/INFO]: <kl_> wut are the cords of the base
-[02:30:41] [Async Chat Thread - #12/INFO]: <Da_Doge_Dog> 1299 219
-[02:32:39] [Async Chat Thread - #13/INFO]: <Da_Doge_Dog> is that my horse?
-[02:32:44] [Async Chat Thread - #13/INFO]: <kl_> no
-[02:32:48] [Async Chat Thread - #13/INFO]: <kl_> its my own
-[02:32:52] [Async Chat Thread - #13/INFO]: <Da_Doge_Dog> o kk
-[02:32:53] [Async Chat Thread - #13/INFO]: <kl_> that i found at the new village
-[02:32:57] [Async Chat Thread - #13/INFO]: <Da_Doge_Dog> alr
-[02:33:19] [Async Chat Thread - #13/INFO]: <kl_> wanna come with me and get some sheep and cows
-[02:33:36] [Async Chat Thread - #13/INFO]: <Da_Doge_Dog> nrn
-[02:33:42] [Async Chat Thread - #13/INFO]: <Da_Doge_Dog> im making my house
-[02:59:20] [Async Chat Thread - #14/INFO]: <kl_> there
-[02:59:27] [Async Chat Thread - #14/INFO]: <kl_> now i grow wheat too
-[03:04:52] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> who did that
-[03:04:53] [Async Chat Thread - #15/INFO]: <kl_> go light up your cobbly mine
-[03:05:49] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> did you just\
-[03:05:53] [Async Chat Thread - #15/INFO]: <kl_> no
-[03:05:54] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> run by my house
-[03:06:02] [Async Chat Thread - #15/INFO]: <kl_> did you just
-[03:06:13] [Async Chat Thread - #15/INFO]: <kl_> make a cobble area right on the surface
-[03:06:17] [Async Chat Thread - #15/INFO]: <kl_> and not light it up
-[03:06:23] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> ?
-[03:06:27] [Async Chat Thread - #15/INFO]: <kl_> in the mine
-[03:06:33] [Async Chat Thread - #15/INFO]: <kl_> ou mined for cobble
-[03:06:35] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> ya y
-[03:06:38] [Async Chat Thread - #15/INFO]: <kl_> and didnt light it up
-[03:06:44] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> ya
-[03:06:47] [Async Chat Thread - #15/INFO]: <kl_> which resluted in me almost getting blown up
-[03:06:57] [Async Chat Thread - #15/INFO]: <kl_> because you went right below my house
-[03:07:04] [Async Chat Thread - #15/INFO]: <kl_> and mobs kept spawning
-[03:07:09] [Async Chat Thread - #15/INFO]: <kl_> go light it up pls
-[03:07:11] [Async Chat Thread - #15/INFO]: <Da_Doge_Dog> mb
-[03:08:46] [Async Chat Thread - #16/INFO]: <kl_> ./nuke
-[03:08:52] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> ._.
-[03:08:52] [Async Chat Thread - #16/INFO]: <kl_> can you pls light it up
-[03:09:09] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> just make touches dawg
-[03:09:13] [Async Chat Thread - #16/INFO]: <kl_> its ur mine
-[03:09:17] [Async Chat Thread - #16/INFO]: <kl_> is it not
-[03:09:19] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> nuh uh
-[03:09:25] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> my name isnt on it
-[03:09:33] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> plus
-[03:09:39] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> dawg
-[03:10:24] [Async Chat Thread - #16/INFO]: <kl_> light it up
-[03:10:31] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> its ur property
-[03:10:33] [Async Chat Thread - #16/INFO]: <kl_> or you will hear from the hoa again
-[03:10:49] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> u said it urself
-[03:10:56] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> its uner YOIR property
-[03:11:03] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> ur reponsible for it
-[03:11:13] [Async Chat Thread - #16/INFO]: <Glitched> you made it tho
-[03:11:35] [Async Chat Thread - #16/INFO]: <Da_Doge_Dog> still part of his
-[03:12:51] [Async Chat Thread - #17/INFO]: <kl_> time to go die
-[03:13:03] [Async Chat Thread - #17/INFO]: <Da_Doge_Dog> wut
-[03:17:13] [Async Chat Thread - #18/INFO]: <kl_> where r u
-[03:17:21] [Async Chat Thread - #18/INFO]: <Da_Doge_Dog> lake
-[03:17:21] [Async Chat Thread - #18/INFO]: <kl_> doge
-[03:17:28] [Async Chat Thread - #18/INFO]: <Da_Doge_Dog> behind my house
-[03:19:04] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> what u need kl
-[03:19:12] [Async Chat Thread - #19/INFO]: <kl_> i was gonna give u gunpowder
-[03:19:17] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> o
-[03:19:32] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> :D
-[03:19:40] [Async Chat Thread - #19/INFO]: <kl_> can u help me
-[03:19:44] [Async Chat Thread - #19/INFO]: <kl_> for like 2m
-[03:19:48] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> with wut
-[03:19:52] [Async Chat Thread - #19/INFO]: <kl_> lighting it up
-[03:19:57] [Async Chat Thread - #19/INFO]: <kl_> i just need u to kill
-[03:19:58] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> ig
-[03:20:08] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> so
-[03:20:16] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> sword or minecart
-[03:20:23] [Async Chat Thread - #19/INFO]: <kl_> sword
-[03:20:34] [Async Chat Thread - #19/INFO]: <kl_> k
-[03:20:39] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> aw ok :<
-[03:20:45] [Async Chat Thread - #19/INFO]: <kl_> wanna minecart
-[03:20:47] [Async Chat Thread - #19/INFO]: <kl_> smth else
-[03:20:51] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> ok
-[03:21:05] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> wut
-[03:21:44] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> fuh
-[03:21:50] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> u got any diamonds?
-[03:22:00] [Async Chat Thread - #19/INFO]: <kl_> nur
-[03:22:06] [Async Chat Thread - #19/INFO]: <kl_> okay but down here
-[03:22:08] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> glitched u got any?
-[03:22:15] [Async Chat Thread - #19/INFO]: <Glitched> no
-[03:22:19] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> fuh
-[03:22:25] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> like where
-[03:22:31] [Async Chat Thread - #19/INFO]: <kl_> if there are mobs
-[03:22:35] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> oki
-[03:23:02] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> yo wait
-[03:23:06] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> watch
-[03:23:13] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> nvm
-[03:24:04] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> kl i found a mob
-[03:24:08] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> its a sheep
-[03:24:08] [Async Chat Thread - #19/INFO]: <kl_> where
-[03:24:11] [Async Chat Thread - #19/INFO]: <kl_> noooo
-[03:24:14] [Async Chat Thread - #19/INFO]: <Da_Doge_Dog> lol
-[03:26:41] [Async Chat Thread - #20/INFO]: <kl_> anyone wanna work on villagers
-[03:26:54] [Async Chat Thread - #20/INFO]: <Da_Doge_Dog> is that rails?
-[03:26:57] [Async Chat Thread - #20/INFO]: <kl_> yes
-[03:27:02] [Async Chat Thread - #20/INFO]: <Da_Doge_Dog> :O
-[03:27:03] [Async Chat Thread - #20/INFO]: <kl_> 3.25 stacks of them
-[03:27:07] [Async Chat Thread - #20/INFO]: <Da_Doge_Dog> damn
-[03:27:23] [Async Chat Thread - #20/INFO]: <kl_> wanna help with villagers
-[03:27:27] [Async Chat Thread - #20/INFO]: <Da_Doge_Dog> ok
-[03:27:31] [Async Chat Thread - #20/INFO]: <kl_> k follow
-[03:27:31] [Async Chat Thread - #20/INFO]: <Da_Doge_Dog> lol
-[03:29:04] [Async Chat Thread - #21/INFO]: <Da_Doge_Dog> where r u
-[03:29:10] [Async Chat Thread - #21/INFO]: <Da_Doge_Dog> o
-[03:29:58] [Async Chat Thread - #21/INFO]: <Da_Doge_Dog> try placing it under them
-[03:30:32] [Async Chat Thread - #21/INFO]: <kl_> violence is the answer
-[03:30:35] [Async Chat Thread - #21/INFO]: <Da_Doge_Dog> lol
-[03:30:58] [Async Chat Thread - #21/INFO]: <Glitched> no, it's the qustion, and the answer is YES
-[03:34:09] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> bro fucking minecart
-[03:34:42] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> BRO WTF
-[03:35:00] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> finally
-[03:35:02] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> NO
-[03:35:09] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> i fucking ahte this
-[03:35:40] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> you mf
-[03:36:06] [Async Chat Thread - #22/INFO]: <Da_Doge_Dog> jesus crist
-[03:37:37] [Async Chat Thread - #23/INFO]: <kl_> gotchu
-[03:37:40] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> ty
-[03:38:22] [Async Chat Thread - #23/INFO]: <kl_> rails
-[03:38:27] [Async Chat Thread - #23/INFO]: <kl_> i need the rails
-[03:38:46] [Async Chat Thread - #23/INFO]: <kl_> dont put him back on
-[03:38:57] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> kk
-[03:39:05] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> dawg i think
-[03:39:11] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> we are going the wrong way
-[03:39:15] [Async Chat Thread - #23/INFO]: <kl_> we were
-[03:39:17] [Async Chat Thread - #23/INFO]: <kl_> come here
-[03:39:19] [Async Chat Thread - #23/INFO]: <kl_> eman
-[03:39:31] [Async Chat Thread - #23/INFO]: <kl_> quick
-[03:39:33] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> where
-[03:39:35] [Async Chat Thread - #23/INFO]: <kl_> nvm
-[03:39:37] [Async Chat Thread - #23/INFO]: <kl_> it gone
-[03:39:40] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> damn
-[03:39:54] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> you need to look at it
-[03:40:19] [Async Chat Thread - #23/INFO]: <Da_Doge_Dog> just saw it
-[03:40:34] [Server thread/INFO]: Da_Doge_Dog lost connection: Disconnected
-[03:40:34] [Server thread/INFO]: Da_Doge_Dog left the game
-[03:40:46] [User Authenticator #4/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
-[03:40:46] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:39382] logged in with entity id 19136 at ([world]-108.0, 64.0, 256.0)
-[03:40:46] [Server thread/WARN]: [LoginSecurity] Player was logged in prematurely while still saving location
-[03:41:21] [Async Chat Thread - #24/INFO]: <Glitched> 1255 238
-[03:41:42] [Async Chat Thread - #24/INFO]: <Da_Doge_Dog> kl we are going the wrong z way
-[03:41:53] [Async Chat Thread - #24/INFO]: <kl_> im realizing that now
-[03:43:41] [Async Chat Thread - #25/INFO]: <kl_> tracks
-[03:43:50] [Async Chat Thread - #25/INFO]: <kl_> ty
-[03:43:53] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> yw
-[03:44:20] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> holy shit
-[03:44:31] [Async Chat Thread - #25/INFO]: <kl_> ?
-[03:44:32] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> 46 ems for eff 4 damn
-[03:44:37] [Async Chat Thread - #25/INFO]: <kl_> ye
-[03:44:39] [Async Chat Thread - #25/INFO]: <kl_> it sucks
-[03:44:41] [Async Chat Thread - #25/INFO]: <kl_> but
-[03:44:48] [Async Chat Thread - #25/INFO]: <kl_> we can just make more villagers
-[03:44:52] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> true
-[03:45:18] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> tell me when to send him
-[03:45:30] [Async Chat Thread - #25/INFO]: <kl_> do it
-[03:45:42] [Async Chat Thread - #25/INFO]: <Da_Doge_Dog> kk
-[03:46:53] [Server thread/INFO]: Set kl_'s game mode to Spectator Mode
-[03:47:04] [Server thread/INFO]: Set kl_'s game mode to Survival Mode
-[03:48:23] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> shit
-[03:48:25] [Async Chat Thread - #26/INFO]: <kl_> ?
-[03:48:30] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> my pic is abt to break
-[03:48:32] [Async Chat Thread - #26/INFO]: <kl_> o
-[03:48:44] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> can i borrow ur to mine the tracks
-[03:48:50] [Async Chat Thread - #26/INFO]: <kl_> mine isnt much better
-[03:49:03] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> mine is litterily a fully black bar
-[03:49:07] [Async Chat Thread - #26/INFO]: <kl_> oh
-[03:49:12] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> not even red dur
-[03:49:21] [Async Chat Thread - #26/INFO]: <kl_> i expect him back
-[03:49:25] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> kk
-[03:50:10] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> tell me when
-[03:51:10] [Async Chat Thread - #26/INFO]: <kl_> full send
-[03:51:17] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> its funny how my helm is in orange dur and my boots are in red dur but my boots have more durn than my helm rn lol
-[03:51:19] [Async Chat Thread - #26/INFO]: <kl_> if in doubt flat out
-[03:51:20] [Async Chat Thread - #26/INFO]: <Da_Doge_Dog> kk
-[03:52:24] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> ow
-[03:52:27] [Async Chat Thread - #27/INFO]: <kl_> fuh mb
-[03:52:31] [Async Chat Thread - #27/INFO]: <kl_> i was trying to kill that
-[03:52:35] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> lol
-[03:53:35] [Async Chat Thread - #27/INFO]: <kl_> we are so close
-[03:53:46] [Async Chat Thread - #27/INFO]: <kl_> slide
-[03:54:20] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> uh
-[03:54:26] [Async Chat Thread - #27/INFO]: <kl_> wut
-[03:54:30] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> wheres the ferness minecart
-[03:54:33] [Async Chat Thread - #27/INFO]: <kl_> i have it
-[03:54:37] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> i need dat
-[03:54:45] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> i got this
-[03:54:57] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> :D
-[03:54:57] [Async Chat Thread - #27/INFO]: <kl_> u do got that
-[03:55:10] [Async Chat Thread - #27/INFO]: <kl_> stay with the villager
-[03:55:13] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> kk
-[03:56:11] [Async Chat Thread - #27/INFO]: <kl_> send
-[03:56:15] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> ow
-[03:56:17] [Async Chat Thread - #27/INFO]: <kl_> dont even mine it
-[03:56:24] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> kk
-[03:56:45] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> bruh
-[03:57:01] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> villagers good
-[03:57:11] [Async Chat Thread - #27/INFO]: <kl_> slide m pic
-[03:57:18] [Async Chat Thread - #27/INFO]: <kl_> ty
-[03:57:20] [Async Chat Thread - #27/INFO]: <Da_Doge_Dog> yw
-[03:58:22] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> man i rly hope an enderman doesnt spawn rn
-[03:58:27] [Async Chat Thread - #28/INFO]: <kl_> lol
-[03:58:34] [Async Chat Thread - #28/INFO]: <kl_> reverse physcology?
-[03:58:47] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> *mc thats ur cue*
-[03:59:42] [Async Chat Thread - #28/INFO]: <kl_> guys guess what time it is
-[03:59:48] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> nooooooooooo
-[03:59:56] [Async Chat Thread - #28/INFO]: <kl_> wait nvm
-[04:00:00] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> phew
-[04:00:35] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> uhhhh
-[04:00:40] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> thats natural
-[04:00:45] [Async Chat Thread - #28/INFO]: <kl_> i just put it here
-[04:00:51] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> no no no
-[04:00:58] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> very natural
-[04:01:03] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> duh
-[04:01:36] [Async Chat Thread - #28/INFO]: <kl_> i need whatever wood u picked up
-[04:01:48] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> lol
-[04:01:49] [Async Chat Thread - #28/INFO]: <kl_> bruh
-[04:02:06] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> there
-[04:02:10] [Async Chat Thread - #28/INFO]: <kl_> move pls
-[04:03:00] [Async Chat Thread - #28/INFO]: <kl_> guess what time it is
-[04:03:06] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> nooo
-[04:03:07] [Async Chat Thread - #28/INFO]: <Glitched> carrot time
-[04:03:09] [Async Chat Thread - #28/INFO]: <kl_> no
-[04:03:14] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> uh
-[04:03:15] [Async Chat Thread - #28/INFO]: <kl_> full etable time
-[04:03:21] [Async Chat Thread - #28/INFO]: <Da_Doge_Dog> phew
-[04:03:56] [Async Chat Thread - #28/INFO]: <kl_> there
-[04:05:14] [Async Chat Thread - #29/INFO]: <kl_> heh
-[04:12:37] [Async Chat Thread - #30/INFO]: <kl_> fuh
-[04:17:48] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> we gotta get to the end
-[04:17:52] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> and get mending
-[04:17:53] [Async Chat Thread - #31/INFO]: <kl_> we will
-[04:17:58] [Async Chat Thread - #31/INFO]: <kl_> its sudposed to take time
-[04:18:08] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> brfore repairing armor costs 40 xp
-[04:18:36] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> repairing me help litterily costs 14 xp
-[04:18:42] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> helm
-[04:18:48] [Async Chat Thread - #31/INFO]: <kl_> doge
-[04:18:49] [Async Chat Thread - #31/INFO]: <kl_> gunp
-[04:18:53] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> wut
-[04:18:59] [Async Chat Thread - #31/INFO]: <Da_Doge_Dog> :D
-[04:20:16] [Async Chat Thread - #32/INFO]: <kl_> my sheep are living the best life :)
-[04:20:35] [Async Chat Thread - #32/INFO]: <Da_Doge_Dog> untill i summon tnt minecart spell
-[04:20:43] [Async Chat Thread - #32/INFO]: <Da_Doge_Dog> I CAST TNT MONECART
-[04:20:48] [Async Chat Thread - #32/INFO]: <kl_> lets not :,)
-[04:21:42] [Server thread/INFO]: kl_ issued server command: /tell glitched i love you <3
-[04:21:55] [Server thread/INFO]: Glitched issued server command: /tell kl_ I love you too <33
-[04:22:01] [Server thread/INFO]: kl_ issued server command: /tell glitched idk if i can rlly talk anymore cuz my family is asleep
-[04:22:13] [Server thread/INFO]: kl_ issued server command: /tell glitched and my room is like right next to theirs
-[04:22:16] [Server thread/INFO]: Glitched issued server command: /tell kl_ that's alright
-[04:22:25] [Async Chat Thread - #33/INFO]: <Da_Doge_Dog> B R I C K S
+[01:51:20] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[01:51:20] [Server thread/INFO]: Loading properties
+[01:51:20] [Server thread/INFO]: Default game type: SURVIVAL
+[01:51:20] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[01:51:20] [Server thread/INFO]: Debug logging is disabled
+[01:51:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:51:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:51:21] [Server thread/INFO]: Generating keypair
+[01:51:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:51:21] [Server thread/INFO]: Using epoll channel type
+[01:51:21] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[01:51:21] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.1
+[01:51:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:51:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:51:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:51:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:51:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:51:21] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[01:51:21] [Server thread/INFO]: Preparing level "world"
+[01:51:21] [Server thread/INFO]: -------- World Settings For [world] --------
+[01:51:21] [Server thread/INFO]: Mob Spawn Range: 4
+[01:51:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:51:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:51:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:51:21] [Server thread/INFO]: Random Lighting Updates: false
+[01:51:21] [Server thread/INFO]: Structure Info Saving: true
+[01:51:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:51:21] [Server thread/INFO]: Max TNT Explosions: 100
+[01:51:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:51:21] [Server thread/INFO]: View Distance: 5
+[01:51:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:51:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:51:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:51:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:51:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:51:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:51:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:51:21] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[01:51:21] [Server thread/INFO]: Mob Spawn Range: 4
+[01:51:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:51:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:51:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:51:21] [Server thread/INFO]: Random Lighting Updates: false
+[01:51:21] [Server thread/INFO]: Structure Info Saving: true
+[01:51:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:51:21] [Server thread/INFO]: Max TNT Explosions: 100
+[01:51:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:51:21] [Server thread/INFO]: View Distance: 5
+[01:51:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:51:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:51:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:51:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:51:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:51:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:51:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:51:21] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[01:51:21] [Server thread/INFO]: Mob Spawn Range: 4
+[01:51:21] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cane Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Melon Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Vine Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[01:51:21] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[01:51:21] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01:51:21] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01:51:21] [Server thread/INFO]: Random Lighting Updates: false
+[01:51:21] [Server thread/INFO]: Structure Info Saving: true
+[01:51:21] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[01:51:21] [Server thread/INFO]: Max TNT Explosions: 100
+[01:51:21] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01:51:21] [Server thread/INFO]: View Distance: 5
+[01:51:21] [Server thread/INFO]: Item Despawn Rate: 6000
+[01:51:21] [Server thread/INFO]: Item Merge Radius: 2.5
+[01:51:21] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[01:51:21] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01:51:21] [Server thread/INFO]: Experience Merge Radius: 3.0
+[01:51:21] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[01:51:21] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[01:51:22] [Server thread/INFO]: Preparing start region for level 0 (Seed: -4323188558834650696)
+[01:51:23] [Server thread/INFO]: Preparing spawn area: 1%
+[01:51:23] [Server thread/INFO]: Preparing start region for level 1 (Seed: -4323188558834650696)
+[01:51:24] [Server thread/INFO]: Preparing start region for level 2 (Seed: -4323188558834650696)
+[01:51:25] [Server thread/INFO]: Preparing spawn area: 15%
+[01:51:25] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.1
+[01:51:25] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[01:51:25] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[01:51:26] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[01:51:26] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[01:51:26] [Server thread/INFO]: Done (5.342s)! For help, type "help" or "?"
+[01:51:26] [Server thread/INFO]: Timings Reset
+[01:51:57] [User Authenticator #1/INFO]: UUID of player Da_Doge_Dog is 4943817d-c1ae-3a38-876a-cca5fb8b1670
+[01:51:58] [Server thread/INFO]: Da_Doge_Dog[/0:0:0:0:0:0:0:1%0:50080] logged in with entity id 102 at ([world]-108.0, 64.0, 256.0)
+[01:52:25] [User Authenticator #1/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[01:52:25] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:56728] logged in with entity id 499 at ([world]-108.0, 64.0, 256.0)
+[01:52:34] [Async Chat Thread - #0/INFO]: <kl_> hi
+[01:52:37] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> ello
+[01:52:48] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> lol
+[01:52:49] [Async Chat Thread - #0/INFO]: <kl_> bang bang bang bang bang
+[01:52:59] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> bang?
+[01:53:00] [Async Chat Thread - #0/INFO]: <kl_> comehere rq
+[01:53:17] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> w
+[01:53:34] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> niccce
+[01:53:36] [Async Chat Thread - #0/INFO]: <kl_> idk what else to put in here yet
+[01:53:41] [Async Chat Thread - #0/INFO]: <Da_Doge_Dog> o
+[01:54:42] [Async Chat Thread - #1/INFO]: <kl_> i have the chat closed
+[01:54:47] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> y
+[01:55:00] [Async Chat Thread - #1/INFO]: <kl_> compute faster
+[01:55:04] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> oh
+[01:55:47] [Async Chat Thread - #1/INFO]: <kl_> can we skip night rq
+[01:55:51] [Async Chat Thread - #1/INFO]: <Da_Doge_Dog> ok
+[01:56:18] [Async Chat Thread - #1/INFO]: <kl_> tyty
+[01:57:54] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> W
+[01:57:59] [Async Chat Thread - #2/INFO]: <kl_> oh guess what i found the other day
+[01:58:03] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> wut
+[01:58:07] [Async Chat Thread - #2/INFO]: <kl_> guess
+[01:58:10] [Async Chat Thread - #2/INFO]: <kl_> its in game
+[01:58:10] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> uhhh
+[01:58:17] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> ely?
+[01:58:23] [Async Chat Thread - #2/INFO]: <kl_> mhm
+[01:58:26] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> yoooo
+[01:58:35] [Async Chat Thread - #2/INFO]: <kl_> i was on foe like a hell of alot of time
+[01:58:46] [Async Chat Thread - #2/INFO]: <kl_> and only found one city out of lie 6 that had it
+[01:58:53] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> damn
+[01:58:58] [Async Chat Thread - #2/INFO]: <kl_> and only 4 of th 6 had any sort of loot
+[01:59:10] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> oh
+[01:59:51] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> how the fuh did i miss a 1 block
+[01:59:56] [Async Chat Thread - #2/INFO]: <kl_> lol
+[02:00:05] [Async Chat Thread - #2/INFO]: <kl_> shit
+[02:00:08] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> ?
+[02:00:12] [Async Chat Thread - #2/INFO]: <kl_> i think my sunburn i starting to peel
+[02:00:16] [Async Chat Thread - #2/INFO]: <kl_> peal
+[02:00:22] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> oh damn
+[02:00:23] [Async Chat Thread - #2/INFO]: <kl_> or however the fuck its spelled
+[02:00:32] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> pealomityon
+[02:00:39] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> lol
+[02:00:52] [Async Chat Thread - #2/INFO]: <kl_> this is just drafting
+[02:00:57] [Async Chat Thread - #2/INFO]: <kl_> not the full thing yet
+[02:00:58] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> kk
+[02:01:35] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> yo we should add the nether update at least
+[02:01:41] [Async Chat Thread - #2/INFO]: <kl_> twin
+[02:01:41] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> its more to do
+[02:01:50] [Async Chat Thread - #2/INFO]: <kl_> i littarly cant
+[02:01:53] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> y
+[02:02:00] [Async Chat Thread - #2/INFO]: <kl_> because
+[02:02:02] [Async Chat Thread - #2/INFO]: <kl_> thats like
+[02:02:10] [Async Chat Thread - #2/INFO]: <kl_> the client would have to be able to support it
+[02:02:36] [Async Chat Thread - #2/INFO]: <kl_> and like i GUESS if i could figure out how to get a regular mc server working i could TRY to do it
+[02:02:53] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> what of we find a modern version of mc and put the server data there
+[02:03:07] [Async Chat Thread - #2/INFO]: <kl_> i wish it were that simple
+[02:03:31] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> easyir said than don
+[02:03:34] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> done*
+[02:03:41] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> but like
+[02:03:47] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> dont u understand
+[02:03:57] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> how many things we could do
+[02:04:04] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> in the most modern version
+[02:04:05] [Async Chat Thread - #2/INFO]: <kl_> with just the 1.14?
+[02:04:10] [Async Chat Thread - #2/INFO]: <kl_> bruh
+[02:04:14] [Async Chat Thread - #2/INFO]: <kl_> modorn mc sucks ass
+[02:04:19] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> .
+[02:04:21] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> how
+[02:04:35] [Async Chat Thread - #2/INFO]: <kl_> there are too many things
+[02:04:41] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> more weopns more blocks
+[02:04:43] [Async Chat Thread - #2/INFO]: <kl_> they arent even comiting to a storyline anymore
+[02:04:46] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> more mobs
+[02:04:50] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> more loot
+[02:05:00] [Async Chat Thread - #2/INFO]: <kl_> its just "of hey look another fucking forst you didnt ask for
+[02:05:06] [Async Chat Thread - #2/INFO]: <kl_> oh*
+[02:05:20] [Async Chat Thread - #2/INFO]: <Da_Doge_Dog> well still
+[02:06:46] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> it would be more fun at least
+[02:06:54] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> not saying it isnt fun already
+[02:07:04] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> more the better
+[02:07:06] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> lol
+[02:07:14] [Async Chat Thread - #3/INFO]: <kl_> look
+[02:07:22] [Async Chat Thread - #3/INFO]: <kl_> if i can get this server up to 1.14
+[02:07:28] [Async Chat Thread - #3/INFO]: <kl_> im happy
+[02:07:32] [Async Chat Thread - #3/INFO]: <kl_> but
+[02:07:37] [Async Chat Thread - #3/INFO]: <kl_> in order to do thhat
+[02:07:43] [Async Chat Thread - #3/INFO]: <kl_> im going to need hella plugins
+[02:07:51] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> what does 1.14 have
+[02:07:53] [Async Chat Thread - #3/INFO]: <kl_> hella plugins= hella storage
+[02:08:04] [Async Chat Thread - #3/INFO]: <kl_> 1.14 was the village and pillage update
+[02:08:08] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> ohhhh
+[02:08:23] [Async Chat Thread - #3/INFO]: <kl_> wait no
+[02:08:25] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> crossbows and totems would be w
+[02:08:32] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> w
+[02:09:01] [Async Chat Thread - #3/INFO]: <kl_> we need 1.16
+[02:09:04] [Async Chat Thread - #3/INFO]: <kl_> for nether
+[02:09:10] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> fr
+[02:09:20] [Async Chat Thread - #3/INFO]: <Da_Doge_Dog> nether update is w
+[02:11:23] [Async Chat Thread - #4/INFO]: <kl_> there we go
+[02:11:53] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> the version rn is 1.12.2 right?
+[02:11:56] [Async Chat Thread - #4/INFO]: <kl_> yes
+[02:12:00] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> kk
+[02:12:52] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> where r u
+[02:13:11] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> o
+[02:13:53] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> we should do upd 9999999999999.99999999999.9e+36 end upd (better end stone tectures)
+[02:14:12] [Async Chat Thread - #4/INFO]: <kl_> do you want me t go in and try to figure out how to do all this
+[02:14:25] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> tbh ye
+[02:14:41] [Async Chat Thread - #4/INFO]: <kl_> aight
+[02:14:46] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> the only thing i rly want to do rn on this version
+[02:14:50] [Async Chat Thread - #4/INFO]: <kl_> ill hck in every once and awhile ig
+[02:15:01] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> is get an ely the go on a massicer
+[02:15:06] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> lol
+[02:15:07] [Async Chat Thread - #4/INFO]: <kl_> fr
+[02:15:08] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> alr
+[02:15:11] [Async Chat Thread - #4/INFO]: <kl_> aight brb
+[02:15:12] [Server thread/INFO]: kl_ lost connection: Disconnected
+[02:15:12] [Server thread/INFO]: kl_ left the game
+[02:15:13] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> kk
+[02:15:58] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> and finnish my house ig..
+[02:16:21] [Server thread/INFO]: [Server] dude
+[02:16:25] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> ?
+[02:16:26] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:16:33] [Server thread/INFO]: [Server] its possible...
+[02:16:39] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> BETTT
+[02:16:41] [Server thread/INFO]: [Server] i can get 1.16 working i think
+[02:16:52] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> :OOOOOOOOOO
+[02:16:54] [User Authenticator #2/INFO]: UUID of player Dominik is d2a083ff-a805-34e8-9b5f-dde8aa6bf44d
+[02:16:54] [Server thread/INFO]: Dominik[/0:0:0:0:0:0:0:1%0:42936] logged in with entity id 3074 at ([world]-108.0, 64.0, 256.0)
+[02:17:00] [Server thread/INFO]: [Server] (i wont do 1.21 bc below y0 is ASSSSSSSSSSSS
+[02:17:01] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> oh hey dominik
+[02:17:15] [Async Chat Thread - #4/INFO]: <Dominik> e
+[02:17:15] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> oki :<
+[02:17:16] [Server thread/INFO]: [Server] 1.17 is the highest ill go i think
+[02:17:20] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> alr
+[02:17:23] [Server thread/INFO]: [Server] idk tho it might just be 1.16
+[02:17:24] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> i love mace
+[02:17:48] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> ./kill literily everyone for no reason at all once soever lol
+[02:17:55] [Async Chat Thread - #4/INFO]: <Dominik> no
+[02:17:59] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> xd
+[02:18:13] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> i dont have command on the server dw lol
+[02:18:19] [Async Chat Thread - #4/INFO]: <Dominik> i want to respawn ender dragon
+[02:18:23] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> y
+[02:18:47] [Async Chat Thread - #4/INFO]: <Dominik> we need gast tears
+[02:19:15] [Server thread/INFO]: [Server] guys
+[02:19:17] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> ?
+[02:19:21] [Async Chat Thread - #4/INFO]: <Dominik> what
+[02:19:50] [Server thread/INFO]: [Server] do we want 1.17 or 1.16 (no copper(yay)) vs (copper(boooo))
+[02:20:00] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> lol
+[02:20:02] [Async Chat Thread - #4/INFO]: <Dominik> no copper it usles
+[02:20:03] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> uhhh
+[02:20:05] [Server thread/INFO]: [Server] 1.16 doesnt 1.17 does
+[02:20:06] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> 1.16
+[02:20:09] [Server thread/INFO]: [Server] k
+[02:20:34] [Server thread/INFO]: [Server] im a motho fahking gentlamanh
+[02:20:44] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> lol
+[02:20:52] [Async Chat Thread - #4/INFO]: <Dominik> wut
+[02:21:16] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> now i can start learning how to do tnt minecart pvp but WITH A CROSSBOW HAHAHAHA
+[02:21:25] [Server thread/INFO]: [Server] fah
+[02:21:35] [Server thread/INFO]: [Server] i have to keep creating new repos
+[02:21:40] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> dw its gonna take me a while
+[02:21:59] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> i still cant do arrow first then minecart
+[02:22:02] [Async Chat Thread - #4/INFO]: <Da_Doge_Dog> :<
+[02:23:34] [Async Chat Thread - #5/INFO]: <Dominik> where you at
+[02:23:53] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> if i ever see an enemy at our base ima just blow them up lol
+[02:24:01] [Async Chat Thread - #5/INFO]: <Dominik> wut
+[02:24:20] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> im at -1843 32 -946
+[02:24:31] [Server thread/INFO]: [Server] fh
+[02:24:39] [Server thread/INFO]: [Server] this might not be possible
+[02:24:46] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wdym
+[02:24:52] [Server thread/INFO]: [Server] idk yet tho
+[02:25:04] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> find the yt totoreal for it L
+[02:25:25] [Server thread/INFO]: [Server] FAHHHHHHH
+[02:25:30] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wut
+[02:25:44] [Server thread/INFO]: [Server] why do yo unot block minecraft.net but you block the fucking download page
+[02:25:48] [Async Chat Thread - #5/INFO]: <Dominik> what the cords of endportal
+[02:25:56] [Server thread/INFO]: [Server] also meanine yt tutorials dont exsist for ts
+[02:26:03] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> lol
+[02:26:33] [Async Chat Thread - #5/INFO]: <Dominik> were end portal
+[02:26:38] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> idk
+[02:26:38] [Server thread/INFO]: [Server] idk
+[02:26:48] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> i forgot where it was
+[02:27:03] [Server thread/INFO]: Dominik has made the advancement [We Need to Go Deeper]
+[02:27:25] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> t
+[02:27:27] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> t
+[02:27:33] [Server thread/INFO]: Dominik has made the advancement [Ice Bucket Challenge]
+[02:27:33] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> t
+[02:27:34] [Server thread/INFO]: [Server] yea i cant do it rn
+[02:27:38] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> y
+[02:27:45] [Server thread/INFO]: [Server] i would but i just cant download the assets i need
+[02:28:04] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> aw
+[02:28:13] [Server thread/INFO]: [Server] i can try on my other comp tmr tho
+[02:28:18] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> so are we stuck in this version?
+[02:28:37] [Server thread/INFO]: [Server] nevermind i got it
+[02:28:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh bet
+[02:28:51] [Server thread/INFO]: [Server] i love being able to downoad things without touching the page
+[02:28:56] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wait a sec
+[02:29:11] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> maybe kl doesnt mind the random stuff they add
+[02:29:33] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> he just doesnt want me getting a mace cuz he knows id be evily stong
+[02:29:40] [Server thread/INFO]: [Server] no
+[02:29:42] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> lol
+[02:29:46] [Server thread/INFO]: [Server] you dont undestand
+[02:29:49] [Server thread/INFO]: [Server] the bullshit
+[02:29:52] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> BUT THINK ABOUT IT
+[02:29:53] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> WE
+[02:29:55] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> CAN
+[02:29:56] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> GET
+[02:29:58] [Server thread/INFO]: [Server] i would have to deal with if i did 1.21
+[02:30:02] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> SPYGLASSES!!!!
+[02:30:11] [Server thread/INFO]: [Server] 1.17 adds that?
+[02:30:15] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:30:26] [Server thread/INFO]: [Server] it was added in caves and clifs part1
+[02:30:28] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> WE CAN ADD
+[02:30:31] [Server thread/INFO]: [Server] also just press z
+[02:30:35] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> USLESS FORESTS!!!!
+[02:30:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> (ik what z does)
+[02:30:49] [Server thread/INFO]: Dominik has made the advancement [Enchanter]
+[02:30:55] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ._.
+[02:31:09] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> kl r we cooked dominik is enchanting
+[02:31:38] [Server thread/INFO]: [Server] holy fuckning hit
+[02:31:41] [Server thread/INFO]: [Server] its working
+[02:31:45] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> YESSSSSSS
+[02:32:22] [Async Chat Thread - #5/INFO]: <Dominik> i should be the official minecraft server brewer
+[02:32:38] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> idk
+[02:33:18] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> kl we should make a world wide rail road to spawn which wound be the main town
+[02:33:51] [Server thread/INFO]: [Server] via nether or
+[02:33:58] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ye
+[02:34:12] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> OMG
+[02:34:16] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> GUNPOWDER
+[02:34:22] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> EEEEEEEEEEEEE
+[02:34:51] [Async Chat Thread - #5/INFO]: <Dominik> what does depth strider do
+[02:35:10] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> faster in water
+[02:35:15] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> i think
+[02:35:24] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> or faster on soul snad
+[02:35:29] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> sand*
+[02:35:35] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> one of those
+[02:35:35] [Async Chat Thread - #5/INFO]: <Dominik> thats soul speed
+[02:35:39] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:35:45] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> then faster in water
+[02:35:57] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wait kl
+[02:36:08] [Server thread/INFO]: [Server] fuhh
+[02:36:09] [Async Chat Thread - #5/INFO]: <Dominik> its movement in water
+[02:36:10] [Server thread/INFO]: [Server] wut
+[02:36:13] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> in 1.16 you can sprint in water to swim right?
+[02:36:20] [Server thread/INFO]: [Server] uhh prob
+[02:36:25] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> finally
+[02:36:26] [Server thread/INFO]: [Server] idk if itll work on our clients tho
+[02:36:32] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> aw
+[02:36:35] [Server thread/INFO]: [Server] yk its like client side right
+[02:36:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ?
+[02:36:53] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> its a mod or smthn?
+[02:37:15] [Server thread/INFO]: [Server] no
+[02:37:27] [Server thread/INFO]: [Server] its like the eaglercraft client i think
+[02:37:39] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:37:43] [Server thread/INFO]: [Server] wait nvm
+[02:37:46] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wait wut
+[02:37:46] [Server thread/INFO]: [Server] im stupid
+[02:37:50] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ????
+[02:37:52] [Server thread/INFO]: [Server] it was added in aquatic
+[02:37:55] [Server thread/INFO]: [Server] update
+[02:37:56] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> o
+[02:38:00] [Server thread/INFO]: [Server] which was after 1.12
+[02:38:06] [Server thread/INFO]: [Server] so ye u should be able to
+[02:38:09] [Server thread/INFO]: [Server] on 1.16
+[02:38:11] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> YIPPIE
+[02:38:14] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> kl
+[02:38:21] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> do yk what this means?
+[02:38:25] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> we can make
+[02:38:28] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> fucking
+[02:38:34] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> dolfin highways
+[02:38:44] [Server thread/INFO]: [Server] LETS GO
+[02:38:49] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> YESSSSSSSSSSSS
+[02:38:51] [Server thread/INFO]: [Server] okay we are close
+[02:38:58] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> WWWW
+[02:39:14] [Server thread/INFO]: [Server] i just need to get it running, generete the eula then ge thte pugins so eagler can conect
+[02:39:15] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> holy pvp hotbar i have
+[02:39:22] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> kk
+[02:40:12] [Server thread/INFO]: [Server] AHAHAHAHAHAHAHAHAHAHAHAHAHAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+[02:40:16] [Async Chat Thread - #5/INFO]: <Dominik> ?
+[02:40:17] [Server thread/INFO]: [Server] IT WORKEDDDDDDD
+[02:40:19] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> YES
+[02:40:30] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+[02:40:43] [Server thread/INFO]: [Server] check the chat
+[02:40:48] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> do u need to shut server off for a min or smthn?
+[02:40:50] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:41:02] [Server thread/INFO]: [Server] we officaly have a 1.16 server
+[02:41:04] [Server thread/INFO]: [Server] no
+[02:41:07] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ohhh
+[02:41:10] [Server thread/INFO]: [Server] its gonna be a diff ip
+[02:41:15] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh kk
+[02:41:21] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:41:25] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> so server reset or..?
+[02:41:28] [Server thread/INFO]: [Server] idk if ill be able to transfer files over tbh
+[02:41:40] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> thats fine
+[02:41:46] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ITS A NEW BEGINING!
+[02:41:47] [Server thread/INFO]: [Server] if i can transfer the world files safely? then no, it wont restart
+[02:41:52] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:41:54] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> alr
+[02:42:00] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> A NEW BEGINING!!!!
+[02:42:03] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> lol
+[02:42:24] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:26] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:27] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:28] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:28] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:29] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wuts the IP?
+[02:42:38] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> im sry
+[02:42:47] [Server thread/INFO]: [Server] i dont have it
+[02:42:49] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> o
+[02:42:59] [Server thread/INFO]: [Server] it wont be up till i come back from summer camp (july 4th)
+[02:43:02] [Server thread/INFO]: [Server] prob
+[02:43:14] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wait why
+[02:43:17] [Server thread/INFO]: [Server] cuz idk if ill have the opertunity to get all the plugins installed
+[02:43:27] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:43:40] [Server thread/INFO]: [Server] (cuz the 1.16 server is meant for reg mc, not eagler, so i have to confg all the proxys n stuff
+[02:43:52] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> kk
+[02:43:57] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> qwerty
+[02:44:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> r u getting back on then?
+[02:45:23] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> we also gotta make teams
+[02:45:28] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ehh
+[02:45:36] [Async Chat Thread - #5/INFO]: <Dominik> you and kl vs the rest
+[02:45:38] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> we can do that in the server
+[02:45:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ._.
+[02:45:52] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> honestly
+[02:46:02] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> that would be a battle
+[02:46:16] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> cuz me and kl are the best pvpers on the server
+[02:46:37] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> (im better tho mehehhehe)
+[02:46:39] [User Authenticator #3/INFO]: UUID of player kl_ is 77f8cc2a-772b-3da8-9afb-931351d60ce2
+[02:46:39] [Server thread/INFO]: kl_[/0:0:0:0:0:0:0:1%0:37028] logged in with entity id 7884 at ([world]-108.0, 64.0, 256.0)
+[02:46:49] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> klklklkll
+[02:46:54] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> dominik want us to do
+[02:46:55] [Async Chat Thread - #5/INFO]: <kl_> im so done with this coding bullshit
+[02:46:59] [Async Chat Thread - #5/INFO]: <kl_> ik i saw
+[02:47:05] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> oh
+[02:47:19] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> and why
+[02:47:29] [Async Chat Thread - #5/INFO]: <kl_> cuz its being anoying
+[02:47:36] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> what happened..
+[02:47:37] [Async Chat Thread - #5/INFO]: <kl_> i have to download like 8 plugins
+[02:47:41] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> bruh
+[02:47:55] [Async Chat Thread - #5/INFO]: <kl_> say i dont even think i can download em on heere
+[02:47:55] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> follow the prosses vruh
+[02:48:10] [Async Chat Thread - #5/INFO]: <kl_> the proses is taking too long
+[02:48:16] [Async Chat Thread - #5/INFO]: <kl_> also do we like the new drip
+[02:48:17] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> nuh uh
+[02:48:22] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ye
+[02:48:26] [Async Chat Thread - #5/INFO]: <kl_> added back rips
+[02:48:31] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> w
+[02:48:31] [Async Chat Thread - #5/INFO]: <Dominik> ?
+[02:48:37] [Async Chat Thread - #5/INFO]: <kl_> to my skin
+[02:48:46] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> now i will crit u out with cooked steak
+[02:48:47] [Async Chat Thread - #5/INFO]: <kl_> aight brb again
+[02:48:49] [Server thread/INFO]: kl_ lost connection: Disconnected
+[02:48:49] [Server thread/INFO]: kl_ left the game
+[02:48:52] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> aw
+[02:49:02] [Async Chat Thread - #5/INFO]: <Dominik> go to skelly farm
+[02:49:15] [Async Chat Thread - #5/INFO]: <Dominik> if you want
+[02:49:20] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> goddamn i havent been there in forever
+[02:49:58] [Server thread/INFO]: You whisper to Da_Doge_Dog: dont he might follow u back
+[02:49:59] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> ima go to old base cuz im board
+[02:50:07] [Async Chat Thread - #5/INFO]: <Dominik> k
+[02:50:18] [Async Chat Thread - #5/INFO]: <Dominik> you left your horse there
+[02:50:44] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> u better not follow me back though
+[02:50:44] [Server thread/INFO]: You whisper to Da_Doge_Dog: hes also hellbent on fighting rn so the portal is prob trapped
+[02:50:56] [Async Chat Thread - #5/INFO]: <Dominik> ?
+[02:51:01] [Server thread/INFO]: [Server] vruh now hes 100% following u back
+[02:51:10] [Async Chat Thread - #5/INFO]: <Dominik> im at skelly farm
+[02:51:10] [Server thread/INFO]: Da_Doge_Dog issued server command: /tell server i have pearls
+[02:51:10] [Server thread/INFO]: [Da_Doge_Dog: Player 'server' cannot be found]
+[02:51:13] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> bruh
+[02:51:23] [Server thread/INFO]: [Server] just type/ then the msg i can see it
+[02:51:31] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> i cant /tell u cuz (server) isnt a player
+[02:51:49] [Server thread/INFO]: [Server] if you do /hi im talking to you server i see it
+[02:51:58] [Server thread/INFO]: Da_Doge_Dog issued server command: /hi
+[02:51:59] [Server thread/INFO]: [Server] and nobody else will
+[02:52:00] [Server thread/INFO]: Dominik issued server command: /hi
+[02:52:12] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wut
+[02:52:39] [Server thread/INFO]: [Server] no shot
+[02:52:43] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wut
+[02:52:45] [Server thread/INFO]: [Server] thats intresting
+[02:52:48] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> wut
+[02:52:51] [Server thread/INFO]: [Server] i got one of the plugin to download
+[02:52:57] [Async Chat Thread - #5/INFO]: <Da_Doge_Dog> w
+[02:53:08] [Server thread/INFO]: [Server] ANOTHER?
+[02:53:18] [Server thread/INFO]: Dominik lost connection: Disconnected
+[02:53:18] [Server thread/INFO]: Dominik left the game
+[02:53:58] [Server thread/INFO]: [Server] I WAS SO CLOSEEEEEEEEEE
+[02:54:07] [Server thread/INFO]: [Server] the 3rd one faileddddddddddddd
+[02:54:13] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> bruh
+[02:54:47] [Server thread/INFO]: [Server] nvm i got it
+[02:54:53] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> yippie
+[02:55:04] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> oh the portal isnt trapped
+[02:55:06] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> cool
+[02:55:06] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:09] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:09] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:10] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:10] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:10] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:11] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:11] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:11] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:11] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:12] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:12] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:12] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:12] [Server thread/INFO]: [Server] java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui java -Xmx2G -Xms1G -jar server.jar nogui
+[02:55:13] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> what the fuck
+[02:55:29] [Server thread/INFO]: [Server] we love the complicated server start comand ;,)
+[02:55:36] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> :sob:
+[02:55:39] [Server thread/INFO]: [Server] bash startup.sh is so much easier to rember
+[02:55:46] [Server thread/INFO]: [Server] (which is what this one usees)
+[02:56:05] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> interesting
+[02:56:19] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> the old base is fine
+[02:56:36] [Async Chat Thread - #6/INFO]: <Da_Doge_Dog> MY HORSE ELLO
+[02:57:16] [Server thread/WARN]: Horse (vehicle of Da_Doge_Dog) moved wrongly!
+[02:57:16] [Server thread/WARN]: Horse (vehicle of Da_Doge_Dog) moved wrongly!
+[02:59:32] [Server thread/INFO]: [Server] wait shit
+[02:59:37] [Server thread/INFO]: [Server] hold up
+[02:59:41] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> ?
+[02:59:45] [Server thread/INFO]: [Server] this could be really fucking easy
+[02:59:50] [Server thread/INFO]: [Server] wait...
+[03:00:00] [Server thread/INFO]: [Server] okay brb
+[03:00:08] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kk
+[03:00:39] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> dominiks base is the skelly farm btw
+[03:00:58] [Server thread/INFO]: [Server] loot it
+[03:01:05] [Server thread/INFO]: [Server] i told him not to make it there
+[03:01:06] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> there isnt much
+[03:01:14] [Server thread/INFO]: [Server] wait what IS there thn
+[03:01:26] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> the most valuable thing is his enchant table
+[03:01:32] [Server thread/INFO]: [Server] oh thats not his
+[03:01:35] [Server thread/INFO]: [Server] i put that there
+[03:01:39] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> everything else is just skelly farm loot
+[03:01:44] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> oh kk
+[03:01:49] [Server thread/INFO]: [Server] so like
+[03:01:54] [Server thread/INFO]: [Server] do i do this easy
+[03:01:56] [Server thread/INFO]: [Server] or hard
+[03:02:10] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> wdym
+[03:02:13] [Server thread/INFO]: [Server] 1.16
+[03:02:25] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> uhh
+[03:02:29] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> easy?
+[03:02:37] [Server thread/INFO]: [Server] k
+[03:02:45] [Server thread/INFO]: [Server] so im going to have to shut this down for a bti
+[03:02:52] [Server thread/INFO]: [Server] cuz im going to use this
+[03:02:58] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kk
+[03:03:05] [Server thread/INFO]: [Server] u have like 3 minutes
+[03:03:22] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> is it gonna be off the rest of the night?
+[03:03:53] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kl?
+[03:04:00] [Server thread/INFO]: [Server] uhh maybe
+[03:04:04] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> aw
+[03:04:05] [Server thread/INFO]: [Server] depends on if im lucky
+[03:04:11] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kk
+[03:04:16] [Server thread/INFO]: [Server] but u might have more time than i thought
+[03:04:22] [Server thread/INFO]: [Server] cuz github is being a dick
+[03:04:30] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> lol
+[03:04:51] [Server thread/INFO]: [Server] shit
+[03:04:56] [Server thread/INFO]: [Server] i might have to shut it off rn
+[03:04:59] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kk
+[03:05:11] [Server thread/INFO]: [Server] i have chat open ill check in and let yk how its going
+[03:05:18] [Async Chat Thread - #7/INFO]: <Da_Doge_Dog> kk
+[03:05:21] [Server thread/INFO]: Stopping the server
+[03:05:21] [Server thread/INFO]: Stopping server
+[03:05:21] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.1
+[03:05:21] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[03:05:21] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[03:05:21] [Server thread/INFO]: Saving players
+[03:05:21] [Server thread/INFO]: Da_Doge_Dog lost connection: Server closed
+[03:05:21] [Server thread/INFO]: Da_Doge_Dog left the game
+[03:05:21] [Server thread/INFO]: Saving worlds
+[03:05:21] [Server thread/INFO]: Saving chunks for level 'world'/overworld
+[03:05:21] [Server thread/INFO]: Saving chunks for level 'world_nether'/the_nether
+[03:05:21] [Server thread/INFO]: Saving chunks for level 'world_the_end'/the_end

@@ -1,0 +1,11 @@
+world-settings:
+  default:
+    spawn:
+      per-player-mob-spawns: true
+      count-all-mobs-for-spawning: false
+      mob-spawn-range: 10   # <-- MOVE IT HERE
+
+    despawn-ranges:
+      monster:
+        soft: 32
+        hard: 128

@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2026-06-22 00:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2026-06-05 00:20:08 +0000"
@@ -649,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2026-06-22 00:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2026-06-05 01:06:19 +0000"
@@ -831,8 +843,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2026-06-22 03:44:30 +0000",
+      "wither_skeleton": "2026-06-13 03:11:03 +0000",
       "skeleton": "2026-06-05 00:51:54 +0000",
+      "blaze": "2026-06-22 02:42:13 +0000",
       "zombie": "2026-06-05 00:29:23 +0000",
+      "silverfish": "2026-06-22 00:53:36 +0000",
       "witch": "2026-06-11 03:12:54 +0000",
       "spider": "2026-06-05 01:10:32 +0000",
       "creeper": "2026-06-05 17:41:19 +0000",
@@ -954,6 +970,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2026-06-22 00:47:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2026-06-05 14:22:04 +0000"
@@ -1014,6 +1036,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2026-06-22 00:16:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2026-06-05 00:20:31 +0000"
@@ -1029,6 +1057,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2026-06-05 00:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2026-06-22 02:43:25 +0000"
     },
     "done": true
   },
@@ -1380,6 +1414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2026-06-22 02:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2026-06-05 00:56:57 +0000"
@@ -1428,6 +1468,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2026-06-22 02:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2026-06-05 00:45:08 +0000"
@@ -1443,15 +1489,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2026-06-08 17:34:33 +0000",
+      "swampland": "2026-06-22 00:06:04 +0000",
       "deep_ocean": "2026-06-05 17:12:10 +0000",
       "beaches": "2026-06-05 17:06:09 +0000",
+      "extreme_hills_with_trees": "2026-06-21 23:50:18 +0000",
       "desert_hills": "2026-06-05 17:07:16 +0000",
       "forest_hills": "2026-06-08 17:35:48 +0000",
       "savanna": "2026-06-05 01:29:09 +0000",
       "plains": "2026-06-05 00:19:07 +0000",
+      "taiga": "2026-06-22 00:08:31 +0000",
       "ocean": "2026-06-05 17:11:49 +0000",
+      "extreme_hills": "2026-06-13 03:43:29 +0000",
       "river": "2026-06-05 01:05:01 +0000",
-      "desert": "2026-06-05 00:18:35 +0000"
+      "desert": "2026-06-05 00:18:35 +0000",
+      "stone_beach": "2026-06-22 00:25:12 +0000"
     },
     "done": false
   },
@@ -1593,6 +1644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2026-06-22 00:18:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2026-06-05 01:06:19 +0000"
@@ -1620,6 +1677,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2026-06-05 14:22:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2026-06-22 00:18:28 +0000"
     },
     "done": true
   },
